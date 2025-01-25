@@ -2,4 +2,5 @@
 image: node:22
 # Build command
 command: npm install && npm run build
-# Public directory public: _site
+# Public directory
+public: _site
