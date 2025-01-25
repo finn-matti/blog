@@ -31,4 +31,4 @@ bluesky:
 ---
 DailyDogo 1121 🐶
 
-<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/59b810eb91ce40a1ba00b6d0254584cb.jpg" width="600" alt="" />
+<img src="/media/uploads/2024/59b810eb91ce40a1ba00b6d0254584cb.jpg" width="600" alt="" />

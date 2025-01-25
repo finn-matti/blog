@@ -53,4 +53,4 @@ Making 1406 links.
 
 This can be run on regular intervals (once an hour or so) to deduplicate your backups. I use [Keyboard Maestro](https://www.keyboardmaestro.com) for this:
 
-![](https://blog.martin-haehnel.de/uploads/2022/a3023456cb.png)
+![](/media/uploads/2022/a3023456cb.png)

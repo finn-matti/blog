@@ -1,5 +1,4 @@
 ---
-
 microblog: true
 guid: http://matti.micro.blog/2025/01/24/cant-get-into-it-but.html
 post_id: 4842835

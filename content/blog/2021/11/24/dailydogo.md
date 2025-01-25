@@ -18,4 +18,4 @@ permalink: /2021/11/24/dailydogo.html
 ---
 DailyDogo 26 🐶
 
-<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2021/2e85bc107f.jpg" width="600" height="450" alt="" />
+<img src="/media/uploads/2021/2e85bc107f.jpg" width="600" height="450" alt="" />

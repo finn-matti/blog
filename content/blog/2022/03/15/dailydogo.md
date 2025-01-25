@@ -18,4 +18,4 @@ permalink: /2022/03/15/dailydogo.html
 ---
 DailyDogo 136 🐶
 
-<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/28bd3506aa.jpg" width="600" height="600" alt="" />
+<img src="/media/uploads/2022/28bd3506aa.jpg" width="600" height="600" alt="" />

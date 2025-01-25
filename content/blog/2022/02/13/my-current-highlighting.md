@@ -17,7 +17,7 @@ permalink: /2022/02/13/my-current-highlighting.html
 ---
 Currently my highlighting and annotation setup looks like this:
 
-![](https://blog.martin-haehnel.de/uploads/2022/906ec19bd9.png)
+![](/media/uploads/2022/906ec19bd9.png)
 
 - Ebooks: Kindle - Even though Amazon as a company is not without its problems, their ebook reader just works and highlighting and annotating for ebooks works with Readwise flawlessly and without friction.[^1]
 - RSS and misc. articles: [Reeder](Reeder) and [Instapaper Premium](https://www.instapaper.com/premium) - I recently tried out [Feedbin](https://feedbin.com) and [Inoreader](https://www.inoreader.com), but the most versatile "read an article on the web and annotate it" setup is this: Send articles from your feed reader (and anywhere else) to Instapaper and annotate them there.[^2]

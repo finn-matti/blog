@@ -24,4 +24,4 @@ mastodon:
 ---
 DailyDogo 860 🐶
 
-<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/1a12c9e7bfe846cb80310c2e61a2fc7a.jpg" width="600" height="600" alt="" />
+<img src="/media/uploads/2024/1a12c9e7bfe846cb80310c2e61a2fc7a.jpg" width="600" height="600" alt="" />

@@ -23,4 +23,4 @@ twitter:
 ---
 DailyDogo 337 🐶
 
-<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/336e6a4bc3.jpg" width="600" height="600" alt="" />
+<img src="/media/uploads/2022/336e6a4bc3.jpg" width="600" height="600" alt="" />

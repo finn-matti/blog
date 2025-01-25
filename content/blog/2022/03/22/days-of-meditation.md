@@ -13,7 +13,7 @@ photos:
 photos_with_metadata:
 permalink: /2022/03/22/days-of-meditation.html
 ---
-![](https://blog.martin-haehnel.de/uploads/2022/120b860a05.png)
+![](/media/uploads/2022/120b860a05.png)
 
 Not my longest meditation streak (I did 365 days in 2017), but nonetheless I'm very happy with the result. Got back into meditation, as I tend to do after some months, in the last quarter of the year - when things got hard and being more aware of things, people, mind and self was needed. Becoming an early riser has really solidified my practice, too.
 

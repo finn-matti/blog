@@ -16,7 +16,7 @@ permalink: /2022/01/08/configure-hugos-native.html
 ---
 If you are one of [the brave people](https://www.manton.org/2022/01/07/moving-to-new.html) that uses Hugo Version 0.91 and wants to take advantage of Hugo's [native syntax highlighting](https://gohugo.io/content-management/syntax-highlighting/) capabilities on a light theme (like the default theme in this example), you might be surprised:
 
-![](https://blog.martin-haehnel.de/uploads/2022/f32609ded9.png)
+![](/media/uploads/2022/f32609ded9.png)
 
 As you can see… you can't really see much.
 

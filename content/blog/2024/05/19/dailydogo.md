@@ -20,4 +20,4 @@ permalink: /2024/05/19/dailydogo.html
 ---
 DailyDogo 907 🐶
 
-<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/e92e0efb874f4833b8bfb68e3283c0a9.jpg" width="600" alt="" />
+<img src="/media/uploads/2024/e92e0efb874f4833b8bfb68e3283c0a9.jpg" width="600" alt="" />

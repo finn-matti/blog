@@ -10,26 +10,6 @@ import matter from "gray-matter";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
-	// preprocessors, etc. for old micro.blog content
-	// eleventyConfig.addPreprocessor("categories-to-tags", "md", (data, content) => {
-	// 	const parsed = matter(content);
-	// 	const categories = parsed.data.categories;
-	// 	if (categories) {
-	// 		parsed.data.tags = categories;
-	// 		parsed.data.categories = undefined;
-	// 	}
-	// 	return matter.stringify(parsed.content, parsed.data);
-	// });
-	// eleventyConfig.addPreprocessor("remove-layout-key", "md", (data, content) => {
-	// 	const parsed = matter(content);
-	// 	if (parsed.data.layout) {
-	// 		parsed.data.layout = undefined;
-	// 	}
-	// 	console.log(parsed.data);
-	// 	return matter.stringify(parsed.content, parsed.data);
-	// });
-
-
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
 		if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
@@ -95,25 +75,25 @@ export default async function(eleventyConfig) {
 	});
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
-
-		// widths: ["auto"],
-
-		failOnError: false,
-		htmlOptions: {
-			imgAttributes: {
-				// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-				loading: "lazy",
-				decoding: "async",
-			}
-		},
-
-		sharpOptions: {
-			animated: true,
-		},
-	});
+	// eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+	// 	// Output formats for each image.
+	// 	formats: ["avif", "webp", "auto"],
+	//
+	// 	// widths: ["auto"],
+	//
+	// 	failOnError: false,
+	// 	htmlOptions: {
+	// 		imgAttributes: {
+	// 			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
+	// 			loading: "lazy",
+	// 			decoding: "async",
+	// 		}
+	// 	},
+	//
+	// 	sharpOptions: {
+	// 		animated: true,
+	// 	},
+	// });
 
 	//Other plugins
 	eleventyConfig.addPlugin(embedEverything);

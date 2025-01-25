@@ -21,7 +21,7 @@ I have to tell myself that it takes time, that you need patience and that you ha
 
 One thing that limits our chances of getting a dog is that the breed of dog we can both agree on is a Corgi. My partner had them as a child growing up (familiarity is important to her) and I read that their intelligence, activity level and size, the general healthiness of the breed and the degree of difficulty to train them - all are within acceptable parameters. But corgis (Pembrokes and to a lesser extent Cardigans) are trendy at the moment. As are smaller dogs in general. The Corona pandemic made this even more pronounced and I can't blame people. If people can't leave their homes for a long time it becomes more likely for them to focus on improving their immediate surroundings, their environment. I could see that this reevaluation might lead to wanting things to stay different: More people wanting pets is a probable result, I think.
 
-![](https://blog.martin-haehnel.de/uploads/2021/c47b1f38f7.jpg)
+![](/media/uploads/2021/c47b1f38f7.jpg)
 
 Having a pet is a nice thing, I imagine. I grew up with a Labrador Retriever called Lucy. Notice that I said "grew up with", not "had". Not because I want to underline that Lucy was a family member (she totally was), but because it was not *my* dog. It was my dad's dog. I can't fault him, but it always hurt me a little. The way he told stories about his dog. The way he took his dog with him after the divorce. I got it and I get it. But this observation made me think "I wanna have a dog, too!"
 

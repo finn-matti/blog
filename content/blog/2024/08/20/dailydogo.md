@@ -25,4 +25,4 @@ mastodon:
 ---
 DailyDogo 1002 🐶
 
-<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/91c504328e794720ba0911669b3f24ea.jpg" width="600" alt="" />
+<img src="/media/uploads/2024/91c504328e794720ba0911669b3f24ea.jpg" width="600" alt="" />
