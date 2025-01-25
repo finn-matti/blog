@@ -17,8 +17,8 @@ export default async function(eleventyConfig) {
 	});
   // If in DEV mode (serve), prepend the src of images/urls of markdown images with the baseUrl
   eleventyConfig.addPreprocessor("replace-image-src", "md", (data, content) => {
-    const mediaBaseUrl = "https://blog-4l4.pages.dev"
     if (process.env.ELEVENTY_RUN_MODE === "serve") {
+      const mediaBaseUrl = "https://blog-4l4.pages.dev"
       return content.replace('/media/uploads/', `${mediaBaseUrl}/media/uploads/`);
     }
     return content;
@@ -59,25 +59,25 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(pluginRss);
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
-
-		// widths: ["auto"],
-
-		failOnError: false,
-		htmlOptions: {
-			imgAttributes: {
-				// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-				loading: "lazy",
-				decoding: "async",
-			}
-		},
-
-		sharpOptions: {
-			animated: true,
-		},
-	});
+	// eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+	// 	// Output formats for each image.
+	// 	formats: ["avif", "webp", "auto"],
+  //
+	// 	// widths: ["auto"],
+  //
+	// 	failOnError: false,
+	// 	htmlOptions: {
+	// 		imgAttributes: {
+	// 			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
+	// 			loading: "lazy",
+	// 			decoding: "async",
+	// 		}
+	// 	},
+  //
+	// 	sharpOptions: {
+	// 		animated: true,
+	// 	},
+	// });
 
 	//Other plugins
 	eleventyConfig.addPlugin(embedEverything);
