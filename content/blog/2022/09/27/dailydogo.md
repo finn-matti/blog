@@ -1,0 +1,26 @@
+---
+
+microblog: true
+guid: http://matti.micro.blog/2022/09/27/dailydogo.html
+post_id: 1673190
+date: 2022-09-27T18:14:43+0200
+lastmod: 2022-09-27T18:14:43+0200
+type: post
+categories:
+- "DailyDogo"
+images:
+- https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2022/3962cd799d.jpg
+photos:
+- https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2022/3962cd799d.jpg
+photos_with_metadata:
+- url: https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2022/3962cd799d.jpg
+  width: 600
+  height: 600
+permalink: /2022/09/27/dailydogo.html
+twitter:
+  id: 1574794749722214404
+  username:
+---
+DailyDogo 328 🐶
+
+<img src="https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/3962cd799d.jpg" width="600" height="600" alt="" />
