@@ -1,5 +1,4 @@
 ---
-
 microblog: true
 guid: http://matti.micro.blog/2025/01/23/dailydogo.html
 post_id: 4841605
