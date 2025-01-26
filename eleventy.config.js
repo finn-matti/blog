@@ -58,7 +58,8 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.addPlugin(pluginRss);
 
-	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
+	// deactivated for now, as it interferes with cloudflare R2 storage; it prepends "content/" to the path
+  // Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	// eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 	// 	// Output formats for each image.
 	// 	formats: ["avif", "webp", "auto"],
