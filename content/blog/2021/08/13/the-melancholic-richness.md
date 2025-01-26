@@ -7,7 +7,7 @@ post_id: 1385392
 date: 2021-08-13T15:09:00+0200
 lastmod: 2021-08-14T15:50:16+0200
 type: post
-categories:
+tags:
 - "Reviews"
 permalink: /2021/08/13/the-melancholic-richness.html
 ---

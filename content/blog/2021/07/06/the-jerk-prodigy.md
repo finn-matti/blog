@@ -7,7 +7,7 @@ post_id: 1356773
 date: 2021-07-06T13:54:00+0200
 lastmod: 2021-07-06T15:09:09+0200
 type: post
-categories:
+tags:
 - "Memories"
 permalink: /2021/07/06/the-jerk-prodigy.html
 ---

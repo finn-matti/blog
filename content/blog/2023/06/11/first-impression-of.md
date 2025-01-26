@@ -6,7 +6,7 @@ post_id: 3160258
 date: 2023-06-11T08:56:36+0200
 lastmod: 2023-06-16T07:56:35+0200
 type: post
-categories:
+tags:
 - "Games"
 - "Quick Note"
 permalink: /2023/06/11/first-impression-of.html

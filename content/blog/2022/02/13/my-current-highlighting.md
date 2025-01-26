@@ -7,7 +7,7 @@ post_id: 1507845
 date: 2022-02-13T11:13:00+0200
 lastmod: 2023-03-21T13:38:31+0200
 type: post
-categories:
+tags:
 - "Setup"
 images:
 - https://cdn.uploads.micro.blog/44388/2022/906ec19bd9.png

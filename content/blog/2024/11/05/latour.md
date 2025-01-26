@@ -7,7 +7,7 @@ post_id: 4422487
 date: 2024-11-05T19:06:32+0200
 lastmod: 2024-11-05T19:06:32+0200
 type: post
-categories:
+tags:
 - "Theory"
 - "Memories"
 permalink: /2024/11/05/latour.html

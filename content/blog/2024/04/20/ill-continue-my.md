@@ -6,7 +6,7 @@ post_id: 4035737
 date: 2024-04-20T09:22:59+0200
 lastmod: 2024-04-20T09:22:59+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/20/ill-continue-my.html

@@ -6,7 +6,7 @@ post_id: 4036064
 date: 2024-04-20T20:21:35+0200
 lastmod: 2024-04-20T20:21:36+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/20/after-a-lot.html

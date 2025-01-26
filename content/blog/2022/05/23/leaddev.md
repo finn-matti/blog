@@ -7,7 +7,7 @@ post_id: 1578026
 date: 2022-05-23T11:44:58+0200
 lastmod: 2022-05-23T11:44:58+0200
 type: post
-categories:
+tags:
 - "Podcast"
 - "Dev Notes"
 audio:

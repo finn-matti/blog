@@ -7,7 +7,7 @@ post_id: 1413620
 date: 2021-09-30T16:51:00+0200
 lastmod: 2023-12-28T21:15:18+0200
 type: post
-categories:
+tags:
 - "Theory"
 permalink: /2021/09/30/problems-of-the.html
 ---

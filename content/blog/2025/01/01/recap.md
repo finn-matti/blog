@@ -7,7 +7,7 @@ post_id: 4567483
 date: 2025-01-01T20:59:09+0200
 lastmod: 2025-01-02T18:41:37+0200
 type: post
-categories:
+tags:
 - "Year in Review"
 images:
 - https://cdn.uploads.micro.blog/44388/2025/cleanshot-2025-01-01-at-16.26.082x.png

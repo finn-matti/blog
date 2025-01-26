@@ -6,7 +6,7 @@ post_id: 1747175
 date: 2022-12-05T14:32:47+0200
 lastmod: 2022-12-05T14:32:47+0200
 type: post
-categories:
+tags:
 - "MicroMonday"
 permalink: /2022/12/05/for-this-weeks.html
 twitter:

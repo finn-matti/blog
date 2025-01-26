@@ -6,7 +6,7 @@ post_id: 2942695
 date: 2023-05-10T20:51:52+0200
 lastmod: 2023-05-10T20:51:53+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 videos:
 - https://blog.martin-haehnel.de/uploads/2023/59eb287eb6.mov

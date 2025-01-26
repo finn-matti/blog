@@ -7,7 +7,7 @@ post_id: 1487446
 date: 2022-01-15T08:10:00+0200
 lastmod: 2022-01-15T08:22:46+0200
 type: post
-categories:
+tags:
 - "Blog"
 permalink: /2022/01/15/shortpostswithatitle.html
 ---

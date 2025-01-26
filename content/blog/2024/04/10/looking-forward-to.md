@@ -6,7 +6,7 @@ post_id: 3985661
 date: 2024-04-10T22:19:29+0200
 lastmod: 2024-04-10T22:19:29+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2024/04/10/looking-forward-to.html
 mastodon:

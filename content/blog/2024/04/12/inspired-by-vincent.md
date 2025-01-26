@@ -6,7 +6,7 @@ post_id: 3988670
 date: 2024-04-12T14:51:26+0200
 lastmod: 2024-04-12T14:51:27+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/12/inspired-by-vincent.html

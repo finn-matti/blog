@@ -7,7 +7,7 @@ post_id: 4091313
 date: 2024-05-18T12:22:16+0200
 lastmod: 2024-05-24T09:02:05+0200
 type: post
-categories:
+tags:
 - "Theory"
 - "WeblogPoMo"
 permalink: /2024/05/18/weblogpomo-a-rational.html

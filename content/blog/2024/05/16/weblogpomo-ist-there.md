@@ -7,7 +7,7 @@ post_id: 4076209
 date: 2024-05-16T22:26:34+0200
 lastmod: 2024-05-16T22:27:22+0200
 type: post
-categories:
+tags:
 - "WeblogPoMo"
 permalink: /2024/05/16/weblogpomo-ist-there.html
 mastodon:

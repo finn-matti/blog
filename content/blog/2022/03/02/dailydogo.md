@@ -6,7 +6,7 @@ post_id: 1520235
 date: 2022-03-02T20:39:41+0200
 lastmod: 2022-09-12T09:51:19+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 images:
 - https://micro.blog/photos/600x/https://matti-test.micro.blog/uploads/2022/385eb72076.jpg

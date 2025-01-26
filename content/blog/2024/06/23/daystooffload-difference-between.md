@@ -7,7 +7,7 @@ post_id: 4166862
 date: 2024-06-23T14:54:20+0200
 lastmod: 2024-06-23T15:05:03+0200
 type: post
-categories:
+tags:
 - "100DaysToOffload"
 permalink: /2024/06/23/daystooffload-difference-between.html
 mastodon:

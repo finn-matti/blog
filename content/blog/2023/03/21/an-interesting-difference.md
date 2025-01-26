@@ -6,7 +6,7 @@ post_id: 1839236
 date: 2023-03-21T13:33:14+0200
 lastmod: 2023-03-21T13:46:40+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2023/03/21/an-interesting-difference.html
 mastodon:

@@ -7,7 +7,7 @@ post_id: 4061539
 date: 2024-05-13T21:18:18+0200
 lastmod: 2024-05-13T21:18:18+0200
 type: post
-categories:
+tags:
 - "Theory"
 - "WeblogPoMo"
 permalink: /2024/05/13/weblogpomo-thoughts-on.html

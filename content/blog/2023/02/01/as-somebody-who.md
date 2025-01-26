@@ -6,7 +6,7 @@ post_id: 1799710
 date: 2023-02-01T13:35:09+0200
 lastmod: 2023-02-01T13:35:09+0200
 type: post
-categories:
+tags:
 - "Blog"
 permalink: /2023/02/01/as-somebody-who.html
 mastodon:

@@ -6,7 +6,7 @@ post_id: 3179827
 date: 2023-06-12T14:18:17+0200
 lastmod: 2023-06-28T22:40:17+0200
 type: post
-categories:
+tags:
 - "Games"
 - "Quick Note"
 permalink: /2023/06/12/quick-update-on.html

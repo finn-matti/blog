@@ -7,7 +7,7 @@ post_id: 4057829
 date: 2024-05-08T22:25:30+0200
 lastmod: 2024-05-08T22:25:30+0200
 type: post
-categories:
+tags:
 - "WeblogPoMo"
 permalink: /2024/05/08/weblogpomo-feeling-at.html
 mastodon:

@@ -6,7 +6,7 @@ post_id: 1666046
 date: 2022-09-15T10:13:23+0200
 lastmod: 2022-09-15T10:13:23+0200
 type: post
-categories:
+tags:
 - "Setup"
 permalink: /2022/09/15/i-recently-tried.html
 twitter:

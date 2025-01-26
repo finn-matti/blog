@@ -7,7 +7,7 @@ post_id: 1518497
 date: 2022-02-27T18:11:30+0200
 lastmod: 2022-05-17T13:40:03+0200
 type: post
-categories:
+tags:
 - "Good Apps"
 permalink: /2022/02/27/good-apps-obsidian.html
 ---

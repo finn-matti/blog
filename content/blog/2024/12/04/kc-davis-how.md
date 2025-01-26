@@ -7,7 +7,7 @@ post_id: 4504791
 date: 2024-12-04T09:52:20+0200
 lastmod: 2024-12-04T09:52:20+0200
 type: post
-categories:
+tags:
 - "Mental Health"
 permalink: /2024/12/04/kc-davis-how.html
 mastodon:

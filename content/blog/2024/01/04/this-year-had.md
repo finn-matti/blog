@@ -6,7 +6,7 @@ post_id: 3818915
 date: 2024-01-04T16:16:55+0200
 lastmod: 2025-01-02T09:50:30+0200
 type: post
-categories:
+tags:
 - "Year in Review"
 images:
 - https://cdn.uploads.micro.blog/44388/2024/img-4905.jpeg

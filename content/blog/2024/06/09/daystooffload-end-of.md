@@ -7,7 +7,7 @@ post_id: 4150958
 date: 2024-06-09T13:07:05+0200
 lastmod: 2024-06-09T13:07:05+0200
 type: post
-categories:
+tags:
 - "100DaysToOffload"
 permalink: /2024/06/09/daystooffload-end-of.html
 mastodon:

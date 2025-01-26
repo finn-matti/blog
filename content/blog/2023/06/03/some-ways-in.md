@@ -6,7 +6,7 @@ post_id: 3095686
 date: 2023-06-03T16:52:17+0200
 lastmod: 2023-06-11T08:51:14+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2023/06/03/some-ways-in.html
 mastodon:

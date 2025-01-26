@@ -7,7 +7,7 @@ post_id: 1373430
 date: 2021-07-24T17:32:00+0200
 lastmod: 2021-07-24T17:32:00+0200
 type: post
-categories:
+tags:
 - "Memories"
 - "Reviews"
 permalink: /2021/07/24/acceptance-as-a.html

@@ -6,7 +6,7 @@ post_id: 3507432
 date: 2023-08-24T08:58:57+0200
 lastmod: 2023-08-24T08:58:57+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/08/24/if-we-were.html
 mastodon:

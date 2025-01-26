@@ -6,7 +6,7 @@ post_id: 4423775
 date: 2024-11-06T15:08:41+0200
 lastmod: 2024-11-06T15:08:41+0200
 type: post
-categories:
+tags:
 - "Games"
 images:
 - https://cdn.uploads.micro.blog/44388/2024/review.png

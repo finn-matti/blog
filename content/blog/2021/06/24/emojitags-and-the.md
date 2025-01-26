@@ -7,7 +7,7 @@ post_id: 1349448
 date: 2021-06-24T15:16:00+0200
 lastmod: 2021-06-27T22:47:50+0200
 type: post
-categories:
+tags:
 - "Theory"
 permalink: /2021/06/24/emojitags-and-the.html
 ---

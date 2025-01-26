@@ -7,7 +7,7 @@ post_id: 1621031
 date: 2022-07-18T16:34:37+0200
 lastmod: 2022-07-18T16:34:37+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2022/07/18/the-three-types.html
 ---

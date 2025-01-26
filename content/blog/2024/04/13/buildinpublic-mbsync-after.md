@@ -6,7 +6,7 @@ post_id: 3989316
 date: 2024-04-13T12:45:01+0200
 lastmod: 2024-05-15T20:23:26+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 images:

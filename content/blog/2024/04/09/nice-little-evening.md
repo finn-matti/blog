@@ -6,7 +6,7 @@ post_id: 3983075
 date: 2024-04-09T22:38:01+0200
 lastmod: 2024-04-09T22:38:01+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2024/04/09/nice-little-evening.html
 mastodon:

@@ -7,7 +7,7 @@ post_id: 4138393
 date: 2024-06-05T18:19:54+0200
 lastmod: 2024-06-05T18:19:54+0200
 type: post
-categories:
+tags:
 - "Memories"
 - "100DaysToOffload"
 permalink: /2024/06/05/daystooffload-review-cal.html

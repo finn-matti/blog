@@ -6,7 +6,7 @@ post_id: 1714232
 date: 2022-11-13T17:10:19+0200
 lastmod: 2022-11-13T17:10:19+0200
 type: post
-categories:
+tags:
 - "SideProject"
 permalink: /2022/11/13/jeez-i-have.html
 twitter:

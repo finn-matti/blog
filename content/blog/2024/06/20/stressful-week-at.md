@@ -6,7 +6,7 @@ post_id: 4163666
 date: 2024-06-19T23:18:57+0200
 lastmod: 2024-06-22T10:22:26+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 permalink: /2024/06/20/stressful-week-at.html
 mastodon:

@@ -7,7 +7,7 @@ post_id: 4062201
 date: 2024-05-14T20:30:03+0200
 lastmod: 2024-05-14T20:30:03+0200
 type: post
-categories:
+tags:
 - "Theory"
 - "WeblogPoMo"
 permalink: /2024/05/14/weblogpomo-vulnerable-thoughts.html

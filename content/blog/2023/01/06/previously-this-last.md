@@ -6,7 +6,7 @@ post_id: 1777517
 date: 2023-01-06T22:45:44+0200
 lastmod: 2024-04-11T09:21:05+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 - "Year in Review"
 images:

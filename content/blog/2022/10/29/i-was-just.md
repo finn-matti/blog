@@ -6,7 +6,7 @@ post_id: 1695947
 date: 2022-10-29T11:09:23+0200
 lastmod: 2022-10-29T11:09:23+0200
 type: post
-categories:
+tags:
 - "SideProject"
 permalink: /2022/10/29/i-was-just.html
 twitter:

@@ -7,7 +7,7 @@ post_id: 4060578
 date: 2024-05-12T12:15:14+0200
 lastmod: 2024-05-12T12:15:14+0200
 type: post
-categories:
+tags:
 - "WeblogPoMo"
 permalink: /2024/05/12/weblogpomo-days-to.html
 mastodon:

@@ -6,7 +6,7 @@ post_id: 1833838
 date: 2023-03-15T11:04:57+0200
 lastmod: 2023-07-16T12:44:15+0200
 type: post
-categories:
+tags:
 - "Task Management"
 permalink: /2023/03/15/previously-im-not.html
 mastodon:

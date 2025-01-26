@@ -6,7 +6,7 @@ post_id: 1833843
 date: 2023-03-15T11:21:48+0200
 lastmod: 2023-03-15T11:21:48+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2023/03/15/decided-to-remove.html
 mastodon:

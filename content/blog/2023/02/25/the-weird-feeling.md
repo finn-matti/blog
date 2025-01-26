@@ -6,7 +6,7 @@ post_id: 1818536
 date: 2023-02-25T16:50:15+0200
 lastmod: 2023-02-25T16:50:15+0200
 type: post
-categories:
+tags:
 - "SideProject"
 permalink: /2023/02/25/the-weird-feeling.html
 mastodon:

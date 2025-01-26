@@ -6,7 +6,7 @@ post_id: 3721705
 date: 2023-12-01T13:31:50+0200
 lastmod: 2023-12-01T13:31:50+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/12/01/via-app-defaults.html
 mastodon:

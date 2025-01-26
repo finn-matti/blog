@@ -7,7 +7,7 @@ post_id: 1412374
 date: 2021-09-27T23:43:00+0200
 lastmod: 2021-09-28T16:13:50+0200
 type: post
-categories:
+tags:
 - "Theory"
 permalink: /2021/09/28/wikipedia-and-mndigkeit.html
 ---

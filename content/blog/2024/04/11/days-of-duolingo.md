@@ -6,7 +6,7 @@ post_id: 3985990
 date: 2024-04-11T09:20:35+0200
 lastmod: 2024-04-11T09:20:35+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 images:
 - https://cdn.uploads.micro.blog/44388/2024/screenshot-2024-04-11-at-09.47.54.png

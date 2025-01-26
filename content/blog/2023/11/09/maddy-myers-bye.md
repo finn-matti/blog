@@ -6,7 +6,7 @@ post_id: 3688216
 date: 2023-11-09T10:52:48+0200
 lastmod: 2023-11-09T10:52:48+0200
 type: post
-categories:
+tags:
 - "Podcast"
 - "Quick Note"
 permalink: /2023/11/09/maddy-myers-bye.html

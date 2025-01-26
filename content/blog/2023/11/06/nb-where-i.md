@@ -6,7 +6,7 @@ post_id: 3681771
 date: 2023-11-06T11:54:26+0200
 lastmod: 2023-11-06T11:54:26+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/11/06/nb-where-i.html
 mastodon:

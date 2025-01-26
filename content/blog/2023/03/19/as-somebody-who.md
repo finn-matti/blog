@@ -6,7 +6,7 @@ post_id: 1837476
 date: 2023-03-19T17:33:36+0200
 lastmod: 2023-03-21T13:46:56+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2023/03/19/as-somebody-who.html
 mastodon:

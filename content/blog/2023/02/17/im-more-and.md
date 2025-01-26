@@ -6,7 +6,7 @@ post_id: 1811303
 date: 2023-02-17T14:11:20+0200
 lastmod: 2023-04-26T15:35:33+0200
 type: post
-categories:
+tags:
 - "Music"
 permalink: /2023/02/17/im-more-and.html
 mastodon:

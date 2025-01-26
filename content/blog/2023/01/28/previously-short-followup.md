@@ -6,7 +6,7 @@ post_id: 1797026
 date: 2023-01-28T17:19:56+0200
 lastmod: 2023-05-09T13:36:13+0200
 type: post
-categories:
+tags:
 - "Setup"
 - "Task Management"
 permalink: /2023/01/28/previously-short-followup.html

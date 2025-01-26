@@ -7,7 +7,7 @@ post_id: 1507860
 date: 2022-02-13T12:27:00+0200
 lastmod: 2022-02-14T08:06:58+0200
 type: post
-categories:
+tags:
 - "Reviews"
 permalink: /2022/02/13/impermanence-and-improvement.html
 ---

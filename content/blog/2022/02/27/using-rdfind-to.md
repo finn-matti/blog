@@ -7,7 +7,7 @@ post_id: 1518601
 date: 2022-02-27T19:34:00+0200
 lastmod: 2022-03-01T08:39:15+0200
 type: post
-categories:
+tags:
 - "Obsidian Tips"
 images:
 - https://cdn.uploads.micro.blog/44388/2022/a3023456cb.png

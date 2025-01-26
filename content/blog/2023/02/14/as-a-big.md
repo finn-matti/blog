@@ -6,7 +6,7 @@ post_id: 1809553
 date: 2023-02-14T21:45:25+0200
 lastmod: 2023-02-14T21:45:25+0200
 type: post
-categories:
+tags:
 - "NBA"
 permalink: /2023/02/14/as-a-big.html
 mastodon:

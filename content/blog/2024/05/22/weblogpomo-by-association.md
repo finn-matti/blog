@@ -7,7 +7,7 @@ post_id: 4094346
 date: 2024-05-22T10:24:43+0200
 lastmod: 2024-05-22T10:24:43+0200
 type: post
-categories:
+tags:
 - "WeblogPoMo"
 permalink: /2024/05/22/weblogpomo-by-association.html
 mastodon:

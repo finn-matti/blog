@@ -6,7 +6,7 @@ post_id: 1820056
 date: 2023-02-27T11:44:11+0200
 lastmod: 2023-03-13T11:29:59+0200
 type: post
-categories:
+tags:
 - "Blog"
 permalink: /2023/02/27/even-though-i.html
 mastodon:

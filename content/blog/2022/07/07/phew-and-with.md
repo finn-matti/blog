@@ -6,7 +6,7 @@ post_id: 1612287
 date: 2022-07-07T12:29:39+0200
 lastmod: 2022-07-07T14:16:40+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 permalink: /2022/07/07/phew-and-with.html
 ---

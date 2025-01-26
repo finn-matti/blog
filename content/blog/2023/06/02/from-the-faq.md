@@ -6,7 +6,7 @@ post_id: 3094055
 date: 2023-06-02T15:18:16+0200
 lastmod: 2023-06-02T15:18:16+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/06/02/from-the-faq.html
 mastodon:

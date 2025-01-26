@@ -7,7 +7,7 @@ post_id: 4092724
 date: 2024-05-20T21:33:31+0200
 lastmod: 2024-05-20T22:24:00+0200
 type: post
-categories:
+tags:
 - "Theory"
 - "WeblogPoMo"
 permalink: /2024/05/20/weblogpomo-the-fatalistic.html

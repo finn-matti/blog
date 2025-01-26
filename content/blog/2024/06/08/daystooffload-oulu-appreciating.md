@@ -7,7 +7,7 @@ post_id: 4150566
 date: 2024-06-08T20:48:41+0200
 lastmod: 2024-06-08T20:48:41+0200
 type: post
-categories:
+tags:
 - "100DaysToOffload"
 images:
 - https://cdn.uploads.micro.blog/44388/2024/img-4273.jpeg

@@ -6,7 +6,7 @@ post_id: 1751199
 date: 2022-12-09T12:13:06+0200
 lastmod: 2022-12-09T12:13:06+0200
 type: post
-categories:
+tags:
 - "SideProject"
 permalink: /2022/12/09/good-that-my.html
 twitter:

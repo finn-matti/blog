@@ -7,7 +7,7 @@ post_id: 1833908
 date: 2023-03-15T12:53:26+0200
 lastmod: 2023-03-15T12:53:26+0200
 type: post
-categories:
+tags:
 - "Mental Health"
 permalink: /2023/03/15/my-current-thoughts.html
 mastodon:

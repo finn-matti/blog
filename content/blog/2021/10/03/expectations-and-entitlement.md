@@ -7,7 +7,7 @@ post_id: 1415132
 date: 2021-10-03T17:16:37+0200
 lastmod: 2021-10-03T17:16:37+0200
 type: post
-categories:
+tags:
 - "Theory"
 permalink: /2021/10/03/expectations-and-entitlement.html
 ---

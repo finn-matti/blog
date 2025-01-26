@@ -6,7 +6,7 @@ post_id: 3402227
 date: 2023-07-16T12:43:15+0200
 lastmod: 2023-08-24T08:55:42+0200
 type: post
-categories:
+tags:
 - "Task Management"
 permalink: /2023/07/16/there-is-a.html
 mastodon:

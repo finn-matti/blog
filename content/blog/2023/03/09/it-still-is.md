@@ -6,7 +6,7 @@ post_id: 1828413
 date: 2023-03-09T13:11:29+0200
 lastmod: 2023-03-09T13:11:29+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 permalink: /2023/03/09/it-still-is.html
 mastodon:

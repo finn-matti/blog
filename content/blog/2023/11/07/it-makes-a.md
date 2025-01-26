@@ -6,7 +6,7 @@ post_id: 3683289
 date: 2023-11-07T17:36:50+0200
 lastmod: 2023-11-07T17:36:50+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/11/07/it-makes-a.html
 mastodon:

@@ -6,7 +6,7 @@ post_id: 3715253
 date: 2023-11-27T17:59:36+0200
 lastmod: 2023-11-27T17:59:36+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/11/27/i-bought-an.html
 mastodon:

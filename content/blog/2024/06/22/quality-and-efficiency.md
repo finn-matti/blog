@@ -7,7 +7,7 @@ post_id: 4165871
 date: 2024-06-22T12:08:45+0200
 lastmod: 2024-06-23T13:35:05+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 - "100DaysToOffload"
 permalink: /2024/06/22/quality-and-efficiency.html

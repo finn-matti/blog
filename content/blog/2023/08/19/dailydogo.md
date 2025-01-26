@@ -6,7 +6,7 @@ post_id: 3503232
 date: 2023-08-19T21:45:46+0200
 lastmod: 2023-08-19T21:45:46+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 images:
 - https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/a4a4057304544eb1a28ad5610a09c197.jpg

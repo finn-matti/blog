@@ -7,7 +7,7 @@ post_id: 1848247
 date: 2023-04-02T18:58:42+0200
 lastmod: 2023-04-02T18:58:42+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2023/04/02/tools-make-knowledge.html
 mastodon:

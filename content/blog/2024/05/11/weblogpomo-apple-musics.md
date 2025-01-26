@@ -7,7 +7,7 @@ post_id: 4059513
 date: 2024-05-11T11:43:34+0200
 lastmod: 2024-05-11T11:43:34+0200
 type: post
-categories:
+tags:
 - "Music"
 - "WeblogPoMo"
 permalink: /2024/05/11/weblogpomo-apple-musics.html

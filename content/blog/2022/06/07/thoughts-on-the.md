@@ -7,7 +7,7 @@ post_id: 1590151
 date: 2022-06-07T09:31:48+0200
 lastmod: 2022-10-24T18:29:40+0200
 type: post
-categories:
+tags:
 - "Setup"
 permalink: /2022/06/07/thoughts-on-the.html
 ---

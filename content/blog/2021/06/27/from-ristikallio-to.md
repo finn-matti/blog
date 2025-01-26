@@ -7,7 +7,7 @@ post_id: 1350826
 date: 2021-06-27T22:35:00+0200
 lastmod: 2021-06-27T23:37:12+0200
 type: post
-categories:
+tags:
 - "Hiking"
 images:
 - https://matti.micro.blog/uploads/2021/0c21448a24.jpg

@@ -7,7 +7,7 @@ post_id: 1369856
 date: 2021-07-17T13:38:00+0200
 lastmod: 2021-07-18T13:10:05+0200
 type: post
-categories:
+tags:
 - "Reviews"
 permalink: /2021/07/17/the-art-of.html
 ---

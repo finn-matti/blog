@@ -7,7 +7,7 @@ post_id: 3480769
 date: 2023-08-05T12:05:26+0200
 lastmod: 2023-08-06T21:17:28+0200
 type: post
-categories:
+tags:
 - "Software Quality"
 permalink: /2023/08/05/environmental-software-quality.html
 mastodon:

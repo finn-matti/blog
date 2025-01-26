@@ -7,7 +7,7 @@ post_id: 4156020
 date: 2024-06-15T02:02:44+0200
 lastmod: 2024-06-15T02:02:44+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 - "100DaysToOffload"
 permalink: /2024/06/15/daystooffload-just-deliver.html

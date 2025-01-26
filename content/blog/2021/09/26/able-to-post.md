@@ -7,7 +7,7 @@ post_id: 1411755
 date: 2021-09-26T13:38:00+0200
 lastmod: 2021-09-26T22:27:51+0200
 type: post
-categories:
+tags:
 - "Blog"
 permalink: /2021/09/26/able-to-post.html
 ---

@@ -6,7 +6,7 @@ post_id: 3102708
 date: 2023-06-06T11:20:39+0200
 lastmod: 2023-06-11T08:49:38+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/06/06/i-wonder-if.html
 mastodon:

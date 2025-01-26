@@ -6,7 +6,7 @@ post_id: 1670056
 date: 2022-09-22T11:45:19+0200
 lastmod: 2022-09-22T11:45:19+0200
 type: post
-categories:
+tags:
 - "Setup"
 permalink: /2022/09/22/after-three-months.html
 twitter:

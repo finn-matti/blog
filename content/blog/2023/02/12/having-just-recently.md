@@ -6,7 +6,7 @@ post_id: 1807051
 date: 2023-02-12T22:32:56+0200
 lastmod: 2023-02-12T22:33:58+0200
 type: post
-categories:
+tags:
 - "NBA"
 permalink: /2023/02/12/having-just-recently.html
 mastodon:

@@ -6,7 +6,7 @@ post_id: 1835278
 date: 2023-03-16T17:51:03+0200
 lastmod: 2023-07-16T12:44:41+0200
 type: post
-categories:
+tags:
 - "Task Management"
 permalink: /2023/03/16/i-dont-know.html
 mastodon:

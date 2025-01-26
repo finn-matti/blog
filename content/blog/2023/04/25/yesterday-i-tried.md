@@ -6,7 +6,7 @@ post_id: 2852137
 date: 2023-04-25T09:56:19+0200
 lastmod: 2023-04-25T09:56:19+0200
 type: post
-categories:
+tags:
 - "Blog"
 permalink: /2023/04/25/yesterday-i-tried.html
 mastodon:

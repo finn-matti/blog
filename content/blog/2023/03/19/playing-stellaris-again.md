@@ -6,7 +6,7 @@ post_id: 1837336
 date: 2023-03-19T11:22:32+0200
 lastmod: 2023-03-19T17:47:53+0200
 type: post
-categories:
+tags:
 - "Games"
 permalink: /2023/03/19/playing-stellaris-again.html
 mastodon:

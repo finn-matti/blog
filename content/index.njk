@@ -6,6 +6,15 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+<!-- Delete this block, which will also remove the component CSS from the bundle -->
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+  <p>
+    <em>Hello! I have migrated this blog from micro.blog recently. Read more <a href="/blog/2025/01/26/micro-blog-migration/">here</a>.</em>
+  </p>
+</div>
+<!-- Stop deleting -->
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
@@ -16,7 +25,7 @@ const numberOfLatestPostsToShow = 3;
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="pages/archive.njk">the archive</a>.</p>
 {% endif %}
 
 {# List every content page in the project #}

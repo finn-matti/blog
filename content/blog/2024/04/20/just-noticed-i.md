@@ -6,7 +6,7 @@ post_id: 4035797
 date: 2024-04-20T12:36:40+0200
 lastmod: 2024-04-20T12:36:40+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/20/just-noticed-i.html

@@ -6,7 +6,7 @@ post_id: 4353744
 date: 2024-09-25T19:00:25+0200
 lastmod: 2024-09-25T19:01:36+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2024/09/25/blog.martin-haehnel.de/fc54853bee611864471a5e4547fe4af6.png
 images:

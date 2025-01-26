@@ -6,7 +6,7 @@ post_id: 1664120
 date: 2022-09-12T10:19:43+0200
 lastmod: 2022-09-12T10:19:43+0200
 type: post
-categories:
+tags:
 - "Blog"
 - "Setup"
 permalink: /2022/09/12/in-an-effort.html

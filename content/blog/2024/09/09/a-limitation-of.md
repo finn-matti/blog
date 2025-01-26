@@ -7,7 +7,7 @@ post_id: 4341822
 date: 2024-09-09T17:23:23+0200
 lastmod: 2024-09-09T17:23:23+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 images:
 - https://cdn.uploads.micro.blog/44388/2024/cleanshot-2024-09-09-at-14.35.532x.png

@@ -7,7 +7,7 @@ post_id: 1577757
 date: 2022-05-22T19:24:05+0200
 lastmod: 2022-05-22T19:36:15+0200
 type: post
-categories:
+tags:
 - "Good Apps"
 permalink: /2022/05/22/good-apps-paletro.html
 ---

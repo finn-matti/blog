@@ -7,7 +7,7 @@ post_id: 1501821
 date: 2022-02-02T17:30:00+0200
 lastmod: 2022-02-13T11:16:04+0200
 type: post
-categories:
+tags:
 - "Setup"
 permalink: /2022/02/02/goalsandideas.html
 ---

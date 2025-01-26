@@ -6,7 +6,7 @@ post_id: 3989910
 date: 2024-04-14T11:57:40+0200
 lastmod: 2024-04-14T11:57:40+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "ZKN Stuff"
 permalink: /2024/04/14/buildinpublic-zknstuff-i.html

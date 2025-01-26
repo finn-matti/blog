@@ -6,7 +6,7 @@ post_id: 1667742
 date: 2022-09-19T09:19:50+0200
 lastmod: 2022-09-19T09:19:50+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 permalink: /2022/09/19/i-didnt-post.html
 twitter:

@@ -7,7 +7,7 @@ post_id: 1476553
 date: 2022-01-03T18:25:20+0200
 lastmod: 2022-01-03T18:25:20+0200
 type: post
-categories:
+tags:
 - "Games"
 permalink: /2022/01/03/i-really-like.html
 ---

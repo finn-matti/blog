@@ -6,7 +6,7 @@ post_id: 1752476
 date: 2022-12-11T14:37:52+0200
 lastmod: 2023-05-09T13:34:32+0200
 type: post
-categories:
+tags:
 - "Task Management"
 permalink: /2022/12/11/two-promising-new.html
 twitter:

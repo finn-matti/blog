@@ -7,7 +7,7 @@ post_id: 3361720
 date: 2023-07-10T11:52:04+0200
 lastmod: 2023-07-10T18:14:07+0200
 type: post
-categories:
+tags:
 - "Setup"
 - "Dev Notes"
 permalink: /2023/07/10/phpstorms-keybinding-system.html

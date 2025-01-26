@@ -6,7 +6,7 @@ post_id: 1815855
 date: 2023-02-22T13:23:21+0200
 lastmod: 2023-02-22T13:23:21+0200
 type: post
-categories:
+tags:
 - "Giving"
 permalink: /2023/02/22/weird-question-how.html
 mastodon:

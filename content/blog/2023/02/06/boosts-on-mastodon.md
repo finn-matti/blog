@@ -6,7 +6,7 @@ post_id: 1802967
 date: 2023-02-06T14:15:48+0200
 lastmod: 2023-02-06T14:15:48+0200
 type: post
-categories:
+tags:
 - "Social Media"
 permalink: /2023/02/06/boosts-on-mastodon.html
 mastodon:

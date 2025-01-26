@@ -7,7 +7,7 @@ post_id: 1491995
 date: 2022-01-22T07:56:00+0200
 lastmod: 2022-01-22T07:59:28+0200
 type: post
-categories:
+tags:
 - "Good Apps"
 permalink: /2022/01/22/good-apps-due.html
 ---

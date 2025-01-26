@@ -7,7 +7,7 @@ post_id: 1588220
 date: 2022-06-03T15:31:33+0200
 lastmod: 2022-06-07T09:29:54+0200
 type: post
-categories:
+tags:
 - "Setup"
 permalink: /2022/06/03/how-i-deal.html
 ---

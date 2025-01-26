@@ -7,7 +7,7 @@ post_id: 4133139
 date: 2024-05-30T18:23:54+0200
 lastmod: 2024-05-30T18:23:54+0200
 type: post
-categories:
+tags:
 - "Theory"
 - "WeblogPoMo"
 permalink: /2024/05/30/weblogpomo-intentions-are.html

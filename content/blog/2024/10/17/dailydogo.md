@@ -6,7 +6,7 @@ post_id: 4390030
 date: 2024-10-17T20:01:21+0200
 lastmod: 2024-10-17T20:01:22+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 images:
 - https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/18997fae628b4ff28dfb7bc1142dec8e.jpg

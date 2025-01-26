@@ -7,7 +7,7 @@ post_id: 1533348
 date: 2022-03-26T13:24:54+0200
 lastmod: 2022-05-16T15:53:50+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2022/03/26/my-new-thing.html
 ---

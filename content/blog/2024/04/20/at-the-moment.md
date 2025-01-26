@@ -6,7 +6,7 @@ post_id: 4035738
 date: 2024-04-20T09:25:45+0200
 lastmod: 2024-04-20T09:25:45+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/20/at-the-moment.html

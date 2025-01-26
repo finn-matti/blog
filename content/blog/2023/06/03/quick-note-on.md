@@ -6,7 +6,7 @@ post_id: 3094751
 date: 2023-06-03T00:08:16+0200
 lastmod: 2023-06-03T08:11:24+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2023/06/03/quick-note-on.html
 mastodon:

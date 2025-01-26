@@ -7,7 +7,7 @@ post_id: 1475390
 date: 2022-01-01T19:07:00+0200
 lastmod: 2024-01-06T17:26:39+0200
 type: post
-categories:
+tags:
 - "Memories"
 - "Year in Review"
 permalink: /2022/01/01/year-of-strain.html

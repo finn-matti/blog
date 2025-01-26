@@ -6,7 +6,7 @@ post_id: 3990429
 date: 2024-04-15T08:27:27+0200
 lastmod: 2024-04-16T08:54:52+0200
 type: post
-categories:
+tags:
 - "Blog"
 images:
 - https://cdn.uploads.micro.blog/44388/2024/screenshot-2024-04-15-at-09.03.24.png

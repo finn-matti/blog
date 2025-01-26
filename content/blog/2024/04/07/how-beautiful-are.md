@@ -6,7 +6,7 @@ post_id: 3951416
 date: 2024-04-07T21:45:28+0200
 lastmod: 2024-04-07T21:45:28+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2024/04/07/how-beautiful-are.html
 mastodon:

@@ -7,7 +7,7 @@ post_id: 4134216
 date: 2024-05-31T18:58:27+0200
 lastmod: 2024-11-04T15:50:46+0200
 type: post
-categories:
+tags:
 - "Blog"
 - "DigitalGarden"
 permalink: /2024/05/31/post-hubs.html

@@ -6,7 +6,7 @@ post_id: 1479904
 date: 2022-01-08T01:20:00+0200
 lastmod: 2022-02-18T09:13:23+0200
 type: post
-categories:
+tags:
 - "Blog"
 images:
 - https://cdn.uploads.micro.blog/44388/2022/f32609ded9.png

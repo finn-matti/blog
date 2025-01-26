@@ -7,7 +7,7 @@ post_id: 4166632
 date: 2024-06-23T00:39:00+0200
 lastmod: 2024-06-23T13:34:32+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 - "100DaysToOffload"
 permalink: /2024/06/23/how-i-have.html
@@ -24,7 +24,7 @@ Here's a little categorization of how I approach different kinds of code changes
 
 First, I ask myself if the change is trivial or not. Is it just something really small and contained, like changing a constant or what is returned from a method? Or a small visual change? This is so easy that I generally only do that change and nothing else. Maybe I add a type hint or update some kind of documentation if it exists. But that's it. Hard to get more efficient here.
 
-If the change is more complex, I subdivide this category immediately into two subcategories: is it something entirely new or is it a substantial change of existing code.
+If the change is more complex, I subdivide this category immediately into two subtags: is it something entirely new or is it a substantial change of existing code.
 
 What makes these two cases different is the kind of analysis (and implementation; see below) I'm doing. If it's new stuff, I try to imagine what a good, modern, sustainably maintainable version of the app or website I'm working on might be in general. What would be a good, extendable starting point? Very often the tech stack is set, but the question becomes how to use what is given in the intended/best™ way.
 

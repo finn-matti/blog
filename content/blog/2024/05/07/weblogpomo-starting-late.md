@@ -7,7 +7,7 @@ post_id: 4056560
 date: 2024-05-07T19:35:45+0200
 lastmod: 2024-05-07T19:35:45+0200
 type: post
-categories:
+tags:
 - "WeblogPoMo"
 permalink: /2024/05/07/weblogpomo-starting-late.html
 mastodon:

@@ -7,7 +7,7 @@ post_id: 4134705
 date: 2024-06-01T16:43:18+0200
 lastmod: 2024-06-01T16:43:18+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 - "100DaysToOffload"
 permalink: /2024/06/01/daystooffload-manifesto-limiting.html

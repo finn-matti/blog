@@ -7,7 +7,7 @@ post_id: 4134223
 date: 2024-05-31T19:09:23+0200
 lastmod: 2024-11-25T10:39:33+0200
 type: post
-categories:
+tags:
 - "Hub"
 permalink: /2024/05/31/hub-the-fatalistic.html
 mastodon:

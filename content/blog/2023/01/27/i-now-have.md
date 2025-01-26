@@ -6,7 +6,7 @@ post_id: 1796240
 date: 2023-01-27T10:25:32+0200
 lastmod: 2023-01-27T10:25:32+0200
 type: post
-categories:
+tags:
 - "Social Media"
 permalink: /2023/01/27/i-now-have.html
 ---

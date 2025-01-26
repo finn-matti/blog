@@ -7,7 +7,7 @@ post_id: 1599816
 date: 2022-06-16T10:12:20+0200
 lastmod: 2023-07-10T18:12:53+0200
 type: post
-categories:
+tags:
 - "Setup"
 - "Dev Notes"
 permalink: /2022/06/16/ide-troubles-phpstorm.html

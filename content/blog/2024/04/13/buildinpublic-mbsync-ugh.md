@@ -6,7 +6,7 @@ post_id: 3989487
 date: 2024-04-13T17:04:36+0200
 lastmod: 2024-04-13T17:04:37+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/13/buildinpublic-mbsync-ugh.html

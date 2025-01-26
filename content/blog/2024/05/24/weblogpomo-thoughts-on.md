@@ -7,7 +7,7 @@ post_id: 4119133
 date: 2024-05-24T09:06:12+0200
 lastmod: 2024-05-24T09:06:12+0200
 type: post
-categories:
+tags:
 - "WeblogPoMo"
 permalink: /2024/05/24/weblogpomo-thoughts-on.html
 mastodon:

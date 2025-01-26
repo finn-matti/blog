@@ -6,7 +6,7 @@ post_id: 3506452
 date: 2023-08-23T08:22:14+0200
 lastmod: 2023-08-28T11:07:09+0200
 type: post
-categories:
+tags:
 - "Task Management"
 permalink: /2023/08/23/kaitlin-salzke-makes.html
 mastodon:

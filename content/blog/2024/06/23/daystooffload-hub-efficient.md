@@ -7,7 +7,7 @@ post_id: 4166834
 date: 2024-06-23T13:36:40+0200
 lastmod: 2024-07-04T17:38:57+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 - "100DaysToOffload"
 permalink: /2024/06/23/daystooffload-hub-efficient.html

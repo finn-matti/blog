@@ -6,7 +6,7 @@ post_id: 1728341
 date: 2022-11-19T14:27:34+0200
 lastmod: 2022-11-19T14:27:34+0200
 type: post
-categories:
+tags:
 - "Blog"
 permalink: /2022/11/19/the-more-i.html
 twitter:

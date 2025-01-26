@@ -6,7 +6,7 @@ post_id: 1828556
 date: 2023-03-09T15:00:18+0200
 lastmod: 2023-03-13T11:26:03+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 images:
 - https://cdn.uploads.micro.blog/44388/2023/268880a450.png

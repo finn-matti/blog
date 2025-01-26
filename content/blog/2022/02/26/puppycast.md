@@ -7,7 +7,7 @@ post_id: 1517873
 date: 2022-02-26T18:39:26+0200
 lastmod: 2022-02-26T19:31:53+0200
 type: post
-categories:
+tags:
 - "Podcast"
 - "PuppyCast"
 audio:

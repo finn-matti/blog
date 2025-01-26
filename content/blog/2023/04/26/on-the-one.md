@@ -6,7 +6,7 @@ post_id: 2852811
 date: 2023-04-26T14:49:05+0200
 lastmod: 2023-04-26T15:35:49+0200
 type: post
-categories:
+tags:
 - "Music"
 permalink: /2023/04/26/on-the-one.html
 mastodon:

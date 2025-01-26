@@ -7,7 +7,7 @@ post_id: 3950635
 date: 2024-04-07T00:22:50+0200
 lastmod: 2024-11-02T19:47:35+0200
 type: post
-categories:
+tags:
 - "DigitalGarden"
 permalink: /2024/04/07/loving-from-a.html
 mastodon:

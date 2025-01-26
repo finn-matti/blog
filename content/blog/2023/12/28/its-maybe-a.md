@@ -6,7 +6,7 @@ post_id: 3812718
 date: 2023-12-28T21:13:47+0200
 lastmod: 2023-12-31T20:20:21+0200
 type: post
-categories:
+tags:
 - "Theory"
 - "Memories"
 - "Reviews"

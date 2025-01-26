@@ -7,7 +7,7 @@ post_id: 1477527
 date: 2022-01-04T14:48:00+0200
 lastmod: 2022-01-04T14:55:47+0200
 type: post
-categories:
+tags:
 - "Theory"
 permalink: /2022/01/04/its-impossible-to.html
 ---

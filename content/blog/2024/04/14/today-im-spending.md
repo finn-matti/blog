@@ -6,7 +6,7 @@ post_id: 3989895
 date: 2024-04-14T11:10:42+0200
 lastmod: 2024-04-14T11:10:42+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 - "ZKN Stuff"

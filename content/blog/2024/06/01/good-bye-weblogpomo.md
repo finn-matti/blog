@@ -7,7 +7,7 @@ post_id: 4134704
 date: 2024-06-01T16:40:11+0200
 lastmod: 2024-06-01T16:40:11+0200
 type: post
-categories:
+tags:
 - "100DaysToOffload"
 permalink: /2024/06/01/good-bye-weblogpomo.html
 mastodon:

@@ -1,10 +1,9 @@
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
-import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import pluginRss from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import embedEverything from 'eleventy-plugin-embed-everything';
-
 import pluginFilters from "./_config/filters.js";
 import matter from "gray-matter";
 
@@ -16,6 +15,14 @@ export default async function(eleventyConfig) {
 			return false;
 		}
 	});
+  // If in DEV mode (serve), prepend the src of images/urls of markdown images with the baseUrl
+  eleventyConfig.addPreprocessor("replace-image-src", "md", (data, content) => {
+    const mediaBaseUrl = "https://blog-4l4.pages.dev"
+    if (process.env.ELEVENTY_RUN_MODE === "serve") {
+      return content.replace('/media/uploads/', `${mediaBaseUrl}/media/uploads/`);
+    }
+    return content;
+  });
 
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
@@ -23,7 +30,7 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy({
 			"./public/": "/"
 		})
-		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
+    .addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
@@ -49,51 +56,28 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
-	eleventyConfig.addPlugin(feedPlugin, {
-		type: "atom", // or "rss", "json"
-		outputPath: "/feed/feed.xml",
-		stylesheet: "pretty-atom-feed.xsl",
-		templateData: {
-			eleventyNavigation: {
-				key: "Feed",
-				order: 4
-			}
-		},
-		collection: {
-			name: "posts",
-			limit: 10,
-		},
-		metadata: {
-			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
-			author: {
-				name: "Your Name"
-			}
-		}
-	});
+	eleventyConfig.addPlugin(pluginRss);
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-	// eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-	// 	// Output formats for each image.
-	// 	formats: ["avif", "webp", "auto"],
-	//
-	// 	// widths: ["auto"],
-	//
-	// 	failOnError: false,
-	// 	htmlOptions: {
-	// 		imgAttributes: {
-	// 			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-	// 			loading: "lazy",
-	// 			decoding: "async",
-	// 		}
-	// 	},
-	//
-	// 	sharpOptions: {
-	// 		animated: true,
-	// 	},
-	// });
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		// Output formats for each image.
+		formats: ["avif", "webp", "auto"],
+
+		// widths: ["auto"],
+
+		failOnError: false,
+		htmlOptions: {
+			imgAttributes: {
+				// e.g. <img loading decoding> assigned on the HTML tag will override these values.
+				loading: "lazy",
+				decoding: "async",
+			}
+		},
+
+		sharpOptions: {
+			animated: true,
+		},
+	});
 
 	//Other plugins
 	eleventyConfig.addPlugin(embedEverything);

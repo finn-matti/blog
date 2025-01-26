@@ -6,7 +6,7 @@ post_id: 1796963
 date: 2023-01-28T14:35:53+0200
 lastmod: 2023-01-28T14:35:53+0200
 type: post
-categories:
+tags:
 - "Music"
 permalink: /2023/01/28/jeez-moderat-fm.html
 mastodon:

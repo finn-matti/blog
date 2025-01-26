@@ -7,7 +7,7 @@ post_id: 3951124
 date: 2024-04-07T11:07:55+0200
 lastmod: 2025-01-17T17:29:20+0200
 type: post
-categories:
+tags:
 - "DigitalGarden"
 permalink: /2024/04/07/digital-garden.html
 mastodon:

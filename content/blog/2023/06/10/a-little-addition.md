@@ -6,7 +6,7 @@ post_id: 3159399
 date: 2023-06-10T13:48:10+0200
 lastmod: 2023-06-10T13:48:10+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 permalink: /2023/06/10/a-little-addition.html
 mastodon:

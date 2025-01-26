@@ -6,7 +6,7 @@ post_id: 1737070
 date: 2022-11-27T18:39:33+0200
 lastmod: 2023-06-12T14:20:34+0200
 type: post
-categories:
+tags:
 - "Games"
 permalink: /2022/11/27/if-there-would.html
 twitter:

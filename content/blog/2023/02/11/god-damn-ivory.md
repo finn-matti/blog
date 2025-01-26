@@ -6,7 +6,7 @@ post_id: 1806276
 date: 2023-02-11T19:35:58+0200
 lastmod: 2023-02-11T19:35:58+0200
 type: post
-categories:
+tags:
 - "Social Media"
 permalink: /2023/02/11/god-damn-ivory.html
 mastodon:

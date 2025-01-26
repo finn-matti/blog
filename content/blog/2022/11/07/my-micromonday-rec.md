@@ -6,7 +6,7 @@ post_id: 1706681
 date: 2022-11-07T20:02:02+0200
 lastmod: 2022-11-07T20:02:02+0200
 type: post
-categories:
+tags:
 - "MicroMonday"
 permalink: /2022/11/07/my-micromonday-rec.html
 twitter:

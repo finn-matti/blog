@@ -6,7 +6,7 @@ post_id: 3952639
 date: 2024-04-08T18:25:53+0200
 lastmod: 2024-04-08T18:25:54+0200
 type: post
-categories:
+tags:
 - "Quick Note"
 permalink: /2024/04/08/took-the-time.html
 mastodon:

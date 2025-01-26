@@ -6,7 +6,7 @@ post_id: 1796454
 date: 2023-01-27T18:58:46+0200
 lastmod: 2023-01-27T18:58:46+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 permalink: /2023/01/27/it-is-a.html
 mastodon:

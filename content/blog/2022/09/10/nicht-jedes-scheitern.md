@@ -7,7 +7,7 @@ post_id: 1663410
 date: 2022-09-10T16:16:36+0200
 lastmod: 2022-09-12T10:16:15+0200
 type: post
-categories:
+tags:
 - "Setup"
 - "Deutsch"
 permalink: /2022/09/10/nicht-jedes-scheitern.html

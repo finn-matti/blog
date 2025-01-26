@@ -7,7 +7,7 @@ post_id: 1648282
 date: 2022-08-22T18:50:00+0200
 lastmod: 2022-08-22T18:51:39+0200
 type: post
-categories:
+tags:
 - "Setup"
 permalink: /2022/08/22/stock-is-better.html
 ---

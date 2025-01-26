@@ -7,7 +7,7 @@ post_id: 1621032
 date: 2022-08-22T18:50:00+0200
 lastmod: 2023-02-01T13:02:31+0200
 type: post
-categories:
+tags:
 - "Good Apps"
 permalink: /2022/08/22/good-apps-agenda.html
 ---

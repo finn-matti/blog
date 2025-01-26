@@ -7,7 +7,7 @@ post_id: 3260183
 date: 2023-06-18T20:14:05+0200
 lastmod: 2023-06-29T00:43:23+0200
 type: post
-categories:
+tags:
 - "Blog"
 - "Dev Notes"
 images:

@@ -6,7 +6,7 @@ post_id: 3990896
 date: 2024-04-15T13:16:23+0200
 lastmod: 2024-04-15T13:19:30+0200
 type: post
-categories:
+tags:
 - "Blog"
 permalink: /2024/04/15/okay-fixed-the.html
 mastodon:

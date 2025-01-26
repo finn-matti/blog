@@ -6,7 +6,7 @@ post_id: 1605579
 date: 2022-06-24T13:00:44+0200
 lastmod: 2022-06-24T13:00:44+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 permalink: /2022/06/24/since-im-traveling.html
 ---

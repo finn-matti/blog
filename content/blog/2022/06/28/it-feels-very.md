@@ -6,7 +6,7 @@ post_id: 1607815
 date: 2022-06-28T19:49:44+0200
 lastmod: 2022-06-28T19:49:44+0200
 type: post
-categories:
+tags:
 - "DailyDogo"
 permalink: /2022/06/28/it-feels-very.html
 ---

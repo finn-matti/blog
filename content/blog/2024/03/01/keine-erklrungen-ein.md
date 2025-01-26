@@ -6,7 +6,7 @@ post_id: 3896038
 date: 2024-03-01T18:47:50+0200
 lastmod: 2024-03-01T18:47:50+0200
 type: post
-categories:
+tags:
 - "Deutsch"
 permalink: /2024/03/01/keine-erklrungen-ein.html
 mastodon:

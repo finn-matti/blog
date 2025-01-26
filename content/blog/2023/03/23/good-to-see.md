@@ -6,7 +6,7 @@ post_id: 1841370
 date: 2023-03-23T10:44:42+0200
 lastmod: 2023-03-23T11:07:19+0200
 type: post
-categories:
+tags:
 - "Dev Notes"
 permalink: /2023/03/23/good-to-see.html
 mastodon:

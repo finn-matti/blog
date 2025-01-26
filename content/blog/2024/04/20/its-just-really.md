@@ -6,7 +6,7 @@ post_id: 4035772
 date: 2024-04-20T10:47:16+0200
 lastmod: 2024-04-20T10:47:16+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/20/its-just-really.html

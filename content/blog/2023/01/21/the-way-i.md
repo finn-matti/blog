@@ -7,7 +7,7 @@ post_id: 1791085
 date: 2023-01-21T15:14:46+0200
 lastmod: 2023-01-21T15:14:46+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 - "Setup"
 permalink: /2023/01/21/the-way-i.html

@@ -7,7 +7,7 @@ post_id: 1492422
 date: 2022-01-23T10:15:26+0200
 lastmod: 2022-01-23T10:15:26+0200
 type: post
-categories:
+tags:
 - "Notes on Notes"
 images:
 - https://live.staticflickr.com/5078/5908610957_7a062de781_b.jpg

@@ -7,7 +7,7 @@ post_id: 1569325
 date: 2022-05-12T08:08:37+0200
 lastmod: 2022-05-12T08:08:37+0200
 type: post
-categories:
+tags:
 - "Podcast"
 - "The Early Riser"
 audio:

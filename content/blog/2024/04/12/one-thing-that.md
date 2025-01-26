@@ -6,7 +6,7 @@ post_id: 3988674
 date: 2024-04-12T14:57:43+0200
 lastmod: 2024-04-12T14:57:43+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/12/one-thing-that.html

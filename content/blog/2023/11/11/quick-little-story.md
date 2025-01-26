@@ -6,7 +6,7 @@ post_id: 3690451
 date: 2023-11-11T14:24:14+0200
 lastmod: 2023-11-11T14:24:14+0200
 type: post
-categories:
+tags:
 - "Memories"
 - "Dev Notes"
 permalink: /2023/11/11/quick-little-story.html

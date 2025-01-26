@@ -6,7 +6,7 @@ post_id: 4035751
 date: 2024-04-20T10:23:09+0200
 lastmod: 2024-04-20T10:23:10+0200
 type: post
-categories:
+tags:
 - "BuildInPublic"
 - "mb-sync"
 permalink: /2024/04/20/im-working-on.html

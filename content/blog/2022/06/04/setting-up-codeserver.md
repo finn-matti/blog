@@ -6,7 +6,7 @@ post_id: 1588885
 date: 2022-06-04T17:00:58+0200
 lastmod: 2022-06-07T09:29:44+0200
 type: post
-categories:
+tags:
 - "Setup"
 permalink: /2022/06/04/setting-up-codeserver.html
 ---
