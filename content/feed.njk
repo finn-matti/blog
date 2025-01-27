@@ -15,7 +15,7 @@ metadata:
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="feeds/pretty-atom-feed.xsl" type="text/xsl"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ metadata.language or page.lang }}">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:echofeed="https://echofeed.app" xml:lang="{{ metadata.language or page.lang }}">
   <title>{{ metadata.title }}</title>
   <subtitle>{{ metadata.description }}</subtitle>
   <link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" />
@@ -39,6 +39,14 @@ metadata:
       <updated>{{ post.date | dateToRfc3339 }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content type="html">{{ post.content | renderTransforms(post.data.page, metadata.base) }}</content>
+      {# The following is a combined title + content field  #}
+      <echofeed:content type="html">
+        {% if post.data.title %}
+          {{ post.data.title }}
+          &lt;br&gt;
+        {% endif %}
+        {{ post.content | renderTransforms(post.data.page, metadata.base) }}
+      </echofeed:content>
     </entry>
   {%- endfor %}
 </feed>

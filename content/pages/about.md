@@ -12,6 +12,13 @@ German living in Finland's north-west. Making money by programming remotely. Lov
 
 ## About the blog
 
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+  <p>
+    <em>The following is out of date. The blog is based on 11ty and hosted on cloudflare.</em>
+  </p>
+</div>
+
 This blog is a so-called micro.blog, meaning that it offers blogging features that integrate nicely with a timeline that is not dissimilar to Twitter. See [their homepage](https://micro.blog) and [their welcome page](https://welcome.micro.blog) for more info.
 
 That's why you'll find a [Replies](/replies/) page in the navigation, that lists all my recent replies to other micro.bloggers. And it is also the reason, why some of my posts have comments from other micro.bloggers.
