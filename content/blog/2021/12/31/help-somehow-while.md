@@ -21,4 +21,4 @@ permalink: /2021/12/31/help-somehow-while.html
 ---
 .[@help](https://micro.blog/help) Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.
 
-<img src="uploads/2021/cce7fbda8e.jpg" width="600" height="307" alt="" /><img src="uploads/2021/bc717bb6e7.jpg" width="600" height="283" alt="" />
+<img src="/media/uploads/2021/cce7fbda8e.jpg" width="600" height="307" alt="" /><img src="/media/uploads/2021/bc717bb6e7.jpg" width="600" height="283" alt="" />

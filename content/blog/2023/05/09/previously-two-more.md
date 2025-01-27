@@ -12,7 +12,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[Previously.](https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html)
+[Previously.](/2022/12/11/two-promising-new.html)
 
 Two more promising apps:
 
@@ -20,4 +20,4 @@ I'm a big fan of noise and music apps and podcasts for focus and sleep. [Dark No
 
 [Sequel 2](https://www.getsequel.app) is probably the first media tracking app, that I am actually using (for a few weeks at least). It's easy to use and has just the right amount of bells and whistles. This works better for me than, say, Trakt.tv, because I don't need nor want the social network aspect and I do want to track more than just one type of media.
 
-[Forward. (Sequel 2)](https://blog.martin-haehnel.de/2022/11/27/if-there-would.html)
+[Forward. (Sequel 2)](/2022/11/27/if-there-would.html)

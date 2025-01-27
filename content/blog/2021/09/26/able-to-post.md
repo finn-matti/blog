@@ -15,7 +15,7 @@ My playing around with custom themes led to errors in the building of my site. H
 
 I published two bigger posts:
 
-- [A photo post about our little boat trip in Oulanka National Park](https://blog.martin-haehnel.de/2021/09/22/a-little-boat.html)
-- [A little post about my eternal puppy fever](https://blog.martin-haehnel.de/2021/09/23/puppy-fever.html) - includes a photo of the family dog I spent my teens with: Lucy
+- [A photo post about our little boat trip in Oulanka National Park](/2021/09/22/a-little-boat.html)
+- [A little post about my eternal puppy fever](/2021/09/23/puppy-fever.html) - includes a photo of the family dog I spent my teens with: Lucy
 
 Uff. What a relief to be able to post again (now for real).

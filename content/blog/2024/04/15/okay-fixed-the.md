@@ -24,4 +24,4 @@ Okay fixed the theme next/previous links:
 
 And the other problem seems to have been a category filter not having run through. There is no pagination, it just shows all the posts on one page. Which is fine for now.
 
-- [Previously](https://blog.martin-haehnel.de/2024/04/15/my-theme-switch.html)
+- [Previously](/2024/04/15/my-theme-switch.html)

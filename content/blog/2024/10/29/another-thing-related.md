@@ -12,6 +12,6 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-Another thing related to what I said about [loosing interest as soon as something has taken VC money](https://blog.martin-haehnel.de/2024/10/25/as-soon-as.html): If the pricing is not immediately obvious I also loose all interest. I'm rarely going to hunt for prices. If I do, I am more often than not disappointed. Case in point:
+Another thing related to what I said about [loosing interest as soon as something has taken VC money](/2024/10/25/as-soon-as.html): If the pricing is not immediately obvious I also loose all interest. I'm rarely going to hunt for prices. If I do, I am more often than not disappointed. Case in point:
 
 [godspeedapp.com](https://godspeedapp.com) I had to email them to learn about their one-time purchase option. And to nobody's surprise it was too expensive (I think it was like 200$ for two years of updates?).

@@ -13,7 +13,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-Kinda along the lines of [Paradigms Are Strategic Tools](https://blog.martin-haehnel.de/2024/10/31/paradigms-are-strategic.html):
+Kinda along the lines of [Paradigms Are Strategic Tools](/2024/10/31/paradigms-are-strategic.html):
 
 The social media researcher Erin Kissane reminds us that the current terrible landscape of the public social internet is made and sustained by people and that this too shall pass:
 

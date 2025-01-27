@@ -22,7 +22,7 @@ permalink: /2021/10/03/expectations-and-entitlement.html
 
 I was going to answer to this ongoing conversation within the thread but ran out of space and I thought it is interesting enough to warrant a titled post[^1]:
 
-Simon's observation is interesting to me because I think it relates to my point from the other day about [social problems being naturally occurring emergent properties of the social](https://blog.martin-haehnel.de/2021/09/30/problems-of-the.html).
+Simon's observation is interesting to me because I think it relates to my point from the other day about [social problems being naturally occurring emergent properties of the social](/2021/09/30/problems-of-the.html).
 
 The question of why do *some* people feel entitled to demand everything to be available for free on the web is, I think, mostly answered by the attitudes they hold[^2]: Is it important to you (to acknowledge that you ought to pay for stuff and/or be fine with not having stuff), or not? And I think this is universal and holds actually true for physical stuff as well.
 

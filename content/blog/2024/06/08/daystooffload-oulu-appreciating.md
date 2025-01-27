@@ -21,7 +21,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-<img src="uploads/2024/img-4273.jpeg" alt="A scenic photo featuring Napu the dog, standing on a cobblestone path under a flowering tree, with the Merikoski hydroelectric power plant&#39;s dam visible in the background. The scene includes a grassy area and a bench where two people are seated, enjoying the serene environment. The dam and surrounding nature are bathed in warm, late afternoon sunlight." title="IMG_4273.jpeg" border="0" width="4032" height="3024" />
+<img src="/media/uploads/2024/img-4273.jpeg" alt="A scenic photo featuring Napu the dog, standing on a cobblestone path under a flowering tree, with the Merikoski hydroelectric power plant&#39;s dam visible in the background. The scene includes a grassy area and a bench where two people are seated, enjoying the serene environment. The dam and surrounding nature are bathed in warm, late afternoon sunlight." title="IMG_4273.jpeg" border="0" width="4032" height="3024" />
 
 We live in Oulu and Oulu is noteworthy in part because of the hydroelectric power plant that has changed the face of the City's river (called Oulujoki, literally Ouluriver). My partner and me, we talked about the dam a little while walking along the basin on top of the dam and it made me think that a monument like this is interesting because of its multi-facetedness:
 

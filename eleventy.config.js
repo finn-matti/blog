@@ -18,8 +18,8 @@ export default async function(eleventyConfig) {
   // If in DEV mode (serve), prepend the src of images/urls of markdown images with the baseUrl
   eleventyConfig.addPreprocessor("replace-image-src", "md", (data, content) => {
     if (process.env.ELEVENTY_RUN_MODE === "serve") {
-      const mediaBaseUrl = "https://blog-4l4.pages.dev"
-      return content.replace('/media/uploads/', `${mediaBaseUrl}/media/uploads/`);
+      const mediaBaseUrl = "https://blog.martin-haehnel.de"
+      return content.replaceAll('/media/uploads/', `${mediaBaseUrl}/media/uploads/`);
     }
     return content;
   });

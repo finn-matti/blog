@@ -18,4 +18,4 @@ permalink: /2021/06/19/hiking-was-indeed.html
 ---
 Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.
 
-<img src="uploads/2021/a5de84bd5a.jpg" width="600" height="450" alt="" />
+<img src="/media/uploads/2021/a5de84bd5a.jpg" width="600" height="450" alt="" />

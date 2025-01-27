@@ -14,7 +14,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[Previously.](https://blog.martin-haehnel.de/2023/01/28/previously-short-followup.html)
+[Previously.](/2023/01/28/previously-short-followup.html)
 
 (I'm not using teuxdeux anymore. And after a short liaison with Todoist, I'm back with OmniFocus.)
 
@@ -22,4 +22,4 @@ Reading [the old scripture on the forecast perspective](https://inside.omnifocus
 
 It's true you can also show deferred tasks and use a forecast tag to surface tasks without a due date in this perspective, but that is just secondary functionality. And it shows.
 
-[Forward.](https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html)
+[Forward.](/2023/03/16/i-dont-know.html)

@@ -16,7 +16,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-It is no news that [I am pretty skeptical that PHPStorm is actually a good IDE](https://blog.martin-haehnel.de/2022/06/16/ide-troubles-phpstorm.html). I especially question their handling of international keyboards. You see, on an international keyboard like [the German one](https://en.wikipedia.org/wiki/German_keyboard_layout) the keyboard shortcuts `cmd + shift + 7` and `cmd + /` are virtually the same, because there is no way to type a `/` without typing `shift + 7`.[^1]
+It is no news that [I am pretty skeptical that PHPStorm is actually a good IDE](/2022/06/16/ide-troubles-phpstorm.html). I especially question their handling of international keyboards. You see, on an international keyboard like [the German one](https://en.wikipedia.org/wiki/German_keyboard_layout) the keyboard shortcuts `cmd + shift + 7` and `cmd + /` are virtually the same, because there is no way to type a `/` without typing `shift + 7`.[^1]
 
 To my knowledge the only modern IDE that offers a default keymap for macOs that doesn't work out of the box with my default international keyboard is Jetbrain's offering. The reason is that some genius thought to implement key bindings without any understanding what symbols are necessarily typed by using a modifier key. So you end up with a keyboard shortcut like `cmd + /` that doesn't work in PHPStorm, but will work out of the box in VS Code.[^2]
 

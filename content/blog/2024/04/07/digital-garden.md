@@ -24,7 +24,7 @@ mastodon:
 
 ## Note
 
-These notes are different from other blog posts in the sense that they aren't staying the same over time, but reflect my current thinking. All of the notes that fall under the umbrella of the digital garden will be part of the DigitalGarden [category](https://blog.martin-haehnel.de/categories/digitalgarden/) and [page](https://blog.martin-haehnel.de/garden/).
+These notes are different from other blog posts in the sense that they aren't staying the same over time, but reflect my current thinking. All of the notes that fall under the umbrella of the digital garden will be part of the DigitalGarden [category](/categories/digitalgarden/) and [page](/garden/).
 
 My Grandparents have beautiful garden that in my mind is as beautiful as it gets: A small refuge outside out the city of Berlin where they spend many weekends and whole summers when they retired. So much love went into this place. And at the same time it's a relaxing oasis. A comforting place a place that connects coziness with nature.
 

@@ -29,6 +29,6 @@ mastodon:
 ---
 DailyDogo 610 🐶
 
-<img src="uploads/2023/img-3748.jpeg" alt="IMG 3748" title="IMG_3748.jpeg" border="0" width="600" height="450" />
+<img src="/media/uploads/2023/img-3748.jpeg" alt="IMG 3748" title="IMG_3748.jpeg" border="0" width="600" height="450" />
 
-<img src="uploads/2023/img-3747.jpeg" alt="IMG 3747" title="IMG_3747.jpeg" border="0" width="600" height="450" />
+<img src="/media/uploads/2023/img-3747.jpeg" alt="IMG 3747" title="IMG_3747.jpeg" border="0" width="600" height="450" />

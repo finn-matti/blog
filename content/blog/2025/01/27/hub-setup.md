@@ -1,7 +1,7 @@
 ---
 title: "Hub \"Setup\""
-date: "Created"
-lastmod: "Last Modified"
+date: 2025-01-27T19:28:07+0200
+lastmod: 2025-01-27T19:18:22+0200
 tags:
   - "Hub"
 ---

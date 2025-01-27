@@ -10,4 +10,4 @@ books:
 - 9780307267672
 permalink: /2021/08/13/finished-reading-blue.html
 ---
-Finished reading: [Blue Nights](https://micro.blog/books/9780307267672) by Joan Didion 📚My thoughts: [The Melancholic Richness Of Frailty](https://blog.martin-haehnel.de/2021/08/13/the-melancholic-richness.html)
+Finished reading: [Blue Nights](https://micro.blog/books/9780307267672) by Joan Didion 📚My thoughts: [The Melancholic Richness Of Frailty](/2021/08/13/the-melancholic-richness.html)

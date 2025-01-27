@@ -14,6 +14,6 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[Previously](https://blog.martin-haehnel.de/2023/03/19/as-somebody-who.html)
+[Previously](/2023/03/19/as-somebody-who.html)
 
 An interesting difference that just occurred to me: Knowledge management and idea generation are not the same things. They are related, but a note system and its user may have to decide if they're building an archive or if they're building an idea generator. I'd say the latter is _much_ more valuable for individuals.

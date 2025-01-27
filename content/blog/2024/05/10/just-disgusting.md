@@ -20,4 +20,4 @@ Just… disgusting…
 
 
 
-<img src="uploads/2024/9e2b0819a3.png" width="600" height="277" alt="">
+<img src="/media/uploads/2024/9e2b0819a3.png" width="600" height="277" alt="">

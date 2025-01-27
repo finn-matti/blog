@@ -18,4 +18,4 @@ mastodon:
 ---
 .[@manton](https://micro.blog/manton) Is there a way to control what's in the "description"(?) of a blog post shared to mastodon? I mean that "Follow on micro blog" part.
 
-<img src="uploads/2024/f3627ea9ad.png" width="600" height="381" alt="">
+<img src="/media/uploads/2024/f3627ea9ad.png" width="600" height="381" alt="">

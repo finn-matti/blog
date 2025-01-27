@@ -20,4 +20,4 @@ You were the chosen one, etc. #enshittification
 
 
 
-<img src="uploads/2023/image.png" width="600" height="454" alt="">
+<img src="/media/uploads/2023/image.png" width="600" height="454" alt="">

@@ -31,7 +31,7 @@ The right or more interesting thing is reading, writing or being attentive in th
 
 While we were staying in a hut without electricity I managed to finished one book, read half of another and wrote a bunch in my handwritten journal. At the same time I took immense pleasure from the surroundings: we were staying in a national park on an island that could only be reached by boat. Listening to podcasts or watching youtube would have only taken away from the experience. I conserved my phone's battery so much however, that I could listen to a podcast while falling asleep, which made listening to the podcast so much more valuable as well, since it was not a resource that I could access all the time or that was so plentiful as to be exhausting.
 
-<img src="uploads/2024/img-3757.jpeg" alt="A photo of table inside a cabin, on which are laying a few items: a base cap, an empty soda bottle (club mate), an ebook reader and a notebook with a strap holding it closed and a pen tucked inside it" title="IMG_3757.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2024/img-3757.jpeg" alt="A photo of table inside a cabin, on which are laying a few items: a base cap, an empty soda bottle (club mate), an ebook reader and a notebook with a strap holding it closed and a pen tucked inside it" title="IMG_3757.jpeg" border="0" width="450" height="600" />
 
 Writing in a little notebook by hand has been great, too. I was able to add some stickers and my intention to write did not get redirected to consume social media or whatever when looking at my phone.
 

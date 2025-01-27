@@ -17,7 +17,7 @@ permalink: /2022/02/27/using-rdfind-to.html
 ---
 *EDIT 2022-03-01: The following still works but I can't recommend using the aut-o-backups plugin. Its lack of features and configurability really makes it unusable for any real-world use-cases.*
 
-This might be of interest for anyone who is using the [aut-o-backups](https://github.com/ryanpcmcquen/obsidian-dropbox-backups) plugin to automatically backup their [Obsidian](https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html) vault to Dropbox. The plugin is [intentionally](https://github.com/ryanpcmcquen/obsidian-dropbox-backups/issues/6#issuecomment-868897394) leaving out a lot of the complexity that is normally involved in dealing with backups, like pruning (only keep x backups) and deduplication. This post is about the latter.
+This might be of interest for anyone who is using the [aut-o-backups](https://github.com/ryanpcmcquen/obsidian-dropbox-backups) plugin to automatically backup their [Obsidian](/2022/02/27/good-apps-obsidian.html) vault to Dropbox. The plugin is [intentionally](https://github.com/ryanpcmcquen/obsidian-dropbox-backups/issues/6#issuecomment-868897394) leaving out a lot of the complexity that is normally involved in dealing with backups, like pruning (only keep x backups) and deduplication. This post is about the latter.
 
 The tool [rdfind](https://github.com/pauldreik/rdfind) can be used to deduplicate the backups and in so doing safe A LOT of storage (especially if you have included binary files like images).
 

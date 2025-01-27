@@ -21,4 +21,4 @@ twitter:
 ---
 The dog has kept me pretty active the last few days… 🐶😅
 
-<img src="uploads/2022/d911fd2955.jpg" width="277" height="600" alt="" />
+<img src="/media/uploads/2022/d911fd2955.jpg" width="277" height="600" alt="" />

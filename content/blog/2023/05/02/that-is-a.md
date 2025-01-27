@@ -20,4 +20,4 @@ That is… a pretty old MacBook by today's standards, right?
 
 [From Apple's Safari page.](https://www.apple.com/safari/)
 
-<img src="uploads/2023/07b78da3c4.png" width="600" height="561" alt="">
+<img src="/media/uploads/2023/07b78da3c4.png" width="600" height="561" alt="">

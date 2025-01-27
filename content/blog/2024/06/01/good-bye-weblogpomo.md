@@ -15,8 +15,8 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-I said [here](https://blog.martin-haehnel.de/2024/05/12/weblogpomo-days-to.html) that I might want to continue with writing 100 real blog posts (with a title, etc.) in a year and so let's kick it off!
+I said [here](/2024/05/12/weblogpomo-days-to.html) that I might want to continue with writing 100 real blog posts (with a title, etc.) in a year and so let's kick it off!
 
-[WebLogPoMo](https://blog.martin-haehnel.de/2024/05/07/weblogpomo-starting-late.html) has shown me that having a reason to blog is a great way to get back into blogging. I mean, [look at all these posts that may never have been published](https://blog.martin-haehnel.de/2024/05/11/weblogpomo-overview.html) without this. So let's continue and keep up the momentum!
+[WebLogPoMo](/2024/05/07/weblogpomo-starting-late.html) has shown me that having a reason to blog is a great way to get back into blogging. I mean, [look at all these posts that may never have been published](/2024/05/11/weblogpomo-overview.html) without this. So let's continue and keep up the momentum!
 
 - [Website for 100 Days To Offload](https://100daystooffload.com)

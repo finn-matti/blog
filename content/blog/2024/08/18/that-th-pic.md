@@ -21,11 +21,11 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-That [1000th pic](https://blog.martin-haehnel.de/2024/08/18/222309.html) in my "Daily Dogo" series marks by sheer coincidence also the third year that Napu is on this planet.
+That [1000th pic](/2024/08/18/222309.html) in my "Daily Dogo" series marks by sheer coincidence also the third year that Napu is on this planet.
 
 She has not been with us from day zero, of course, that day will come in October. Also, I according to wolfram alpha, I have dropped 23 days somewhere along the way:
 
-<img src="uploads/2024/cleanshot-2024-08-18-at-22.52.002x.png" alt="A screenshot from Wolfram Alpha showing that it&#39;s been 1023 days from 2021-10-30 to 2024-08-18 amongst other things." title="CleanShot 2024-08-18 at 22.52.00@2x.png" border="0" width="599" height="396" />
+<img src="/media/uploads/2024/cleanshot-2024-08-18-at-22.52.002x.png" alt="A screenshot from Wolfram Alpha showing that it&#39;s been 1023 days from 2021-10-30 to 2024-08-18 amongst other things." title="CleanShot 2024-08-18 at 22.52.00@2x.png" border="0" width="599" height="396" />
 
 I guess I don't mind it that much and I'm not going to fix it either. Especially in the beginning when doing things manually every day or when traveling and having to repair the streak things got at times untidy. But whatever.
 
@@ -39,15 +39,15 @@ If you're curious how the process works: I use shortcuts and an app called [Humb
 
 Here are some screenshots:
 
-<img src="uploads/2024/cleanshot-2024-08-18-at-22.36.202x.png" alt="A screenshot of my main DailyDogo Apple Shortcut" title="CleanShot 2024-08-18 at 22.36.20@2x.png" border="0" width="599" height="421" />
+<img src="/media/uploads/2024/cleanshot-2024-08-18-at-22.36.202x.png" alt="A screenshot of my main DailyDogo Apple Shortcut" title="CleanShot 2024-08-18 at 22.36.20@2x.png" border="0" width="599" height="421" />
 
 This one is built out of two other shortcuts:
 
-<img src="uploads/2024/cleanshot-2024-08-18-at-22.37.072x.png" alt="A screenshot of my DailyDogo Image Apple Shortcut" title="CleanShot 2024-08-18 at 22.37.07@2x.png" border="0" width="599" height="421" />
+<img src="/media/uploads/2024/cleanshot-2024-08-18-at-22.37.072x.png" alt="A screenshot of my DailyDogo Image Apple Shortcut" title="CleanShot 2024-08-18 at 22.37.07@2x.png" border="0" width="599" height="421" />
 
 This one converts and then uploads an image of my photos app to MB.
 
-<img src="uploads/2024/cleanshot-2024-08-18-at-22.37.392x.png" alt="A screenshot of my DailyDogo Suggestion Apple Shortcut" title="CleanShot 2024-08-18 at 22.37.39@2x.png" border="0" width="599" height="421" />
+<img src="/media/uploads/2024/cleanshot-2024-08-18-at-22.37.392x.png" alt="A screenshot of my DailyDogo Suggestion Apple Shortcut" title="CleanShot 2024-08-18 at 22.37.39@2x.png" border="0" width="599" height="421" />
 
 This one looks at the rss feed of the daily dogo category and does some string manipulation to get the next number for the daily dogo.
 

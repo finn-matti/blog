@@ -20,4 +20,4 @@ Just fucking disgusting…
 
 
 
-<img src="uploads/2024/adb35bf657.png" width="600" height="448" alt="">
+<img src="/media/uploads/2024/adb35bf657.png" width="600" height="448" alt="">

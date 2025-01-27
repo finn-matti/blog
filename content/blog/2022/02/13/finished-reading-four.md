@@ -10,4 +10,4 @@ books:
 - 9781473545557
 permalink: /2022/02/13/finished-reading-four.html
 ---
-Finished reading: [Four Thousand Weeks](https://micro.blog/books/9781473545557) by Oliver Burkeman 📚 -> My thoughts: [Impermanence And Improvement](https://blog.martin-haehnel.de/2022/02/13/impermanence-and-improvement.html)
+Finished reading: [Four Thousand Weeks](https://micro.blog/books/9781473545557) by Oliver Burkeman 📚 -> My thoughts: [Impermanence And Improvement](/2022/02/13/impermanence-and-improvement.html)

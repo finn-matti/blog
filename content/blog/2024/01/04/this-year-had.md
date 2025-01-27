@@ -1,5 +1,4 @@
 ---
-
 microblog: true
 guid: http://matti.micro.blog/2024/01/04/this-year-had.html
 post_id: 3818915
@@ -50,11 +49,11 @@ Our summer was wonderful, including a memorable trip to Finland's Perämeri Nati
 
 Beyond these trips, there were countless wonderful moments in our day-to-day life, too: solving jigsaw puzzles, watching TV, hiking day trails and collecting berries. Despite ups and downs, we had many opportunities to laugh and enjoy each other's company - and we did.
 
-<img src="uploads/2024/img-4905.jpeg" alt="Two bowls full of blue berries are held in a forest environment. The hands are stained red from blue berry juice. In the background a dog is visible." title="IMG_4905.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2024/img-4905.jpeg" alt="Two bowls full of blue berries are held in a forest environment. The hands are stained red from blue berry juice. In the background a dog is visible." title="IMG_4905.jpeg" border="0" width="450" height="600" />
 
 While interacting with Napu this year, I learned the importance of understanding trigger stacking, letting her make choices and providing her with a safe and positive environment to learn and grow. She was a joy to have with and around us.
 
-<img src="uploads/2024/img-6842.jpeg" alt="A dog is laying belly up in front of sofa. There are toys and a chewing bone next to her head. She is watching into the camera." title="IMG_6842.jpeg" border="0" width="600" height="450" />
+<img src="/media/uploads/2024/img-6842.jpeg" alt="A dog is laying belly up in front of sofa. There are toys and a chewing bone next to her head. She is watching into the camera." title="IMG_6842.jpeg" border="0" width="600" height="450" />
 
 ## Personal Growth
 
@@ -74,10 +73,10 @@ Even in a bad year there's things to learn and take with me into what comes next
 
 Despite 2023's terrible end, there were moments of happiness and growth. However, I'm approaching 2024 with cautious optimism.
 
-<img src="uploads/2024/img-5107.jpeg" alt="I man is raising a thermos cup of coffee into the camera while sitting in a hilly forested nature setting, next to a dog and a woman." title="IMG_5107.jpeg" border="0" width="599" height="450" />
+<img src="/media/uploads/2024/img-5107.jpeg" alt="I man is raising a thermos cup of coffee into the camera while sitting in a hilly forested nature setting, next to a dog and a woman." title="IMG_5107.jpeg" border="0" width="599" height="450" />
 
 What makes a good year is a smaller gap between my expectations and reality, leading to fewer disappointments. The new year will be about managing expectations and rolling with the punches. I'm prepared to do both!
 
 
-- [Previously.](https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html)
-- [Forward.](https://blog.martin-haehnel.de/2025/01/01/recap.html)
+- [Previously.](/2023/01/06/previously-this-last.html)
+- [Forward.](/2025/01/01/recap.html)

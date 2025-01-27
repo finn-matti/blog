@@ -22,4 +22,4 @@ mastodon:
 ---
 Overslept a little today. But hey:
 
-<img src="uploads/2023/93461ae94e.jpg" width="600" height="172" alt="An iPhone Screenshot of an Apple health notification telling me I hit my sleep goal.">
+<img src="/media/uploads/2023/93461ae94e.jpg" width="600" height="172" alt="An iPhone Screenshot of an Apple health notification telling me I hit my sleep goal.">

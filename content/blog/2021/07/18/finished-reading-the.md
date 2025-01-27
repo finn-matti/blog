@@ -10,4 +10,4 @@ books:
 - 9780525429647
 permalink: /2021/07/18/finished-reading-the.html
 ---
-Finished reading: [The Art of the Wasted Day](https://micro.blog/books/9780525429647) by Patricia Hampl 📚For my thoughts see: [The Art Of Writing About Yourself.](https://blog.martin-haehnel.de/2021/07/17/the-art-of.html)
+Finished reading: [The Art of the Wasted Day](https://micro.blog/books/9780525429647) by Patricia Hampl 📚For my thoughts see: [The Art Of Writing About Yourself.](/2021/07/17/the-art-of.html)

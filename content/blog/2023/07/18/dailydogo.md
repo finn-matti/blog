@@ -34,8 +34,8 @@ mastodon:
 ---
 DailyDogo 615 🐶
 
-<img src="uploads/2023/img-1368.jpeg" alt="IMG 1368" title="IMG_1368.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2023/img-1368.jpeg" alt="IMG 1368" title="IMG_1368.jpeg" border="0" width="450" height="600" />
 
-<img src="uploads/2023/img-1369.jpeg" alt="IMG 1369" title="IMG_1369.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2023/img-1369.jpeg" alt="IMG 1369" title="IMG_1369.jpeg" border="0" width="450" height="600" />
 
-<img src="uploads/2023/img-1372.jpeg" alt="IMG 1372" title="IMG_1372.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2023/img-1372.jpeg" alt="IMG 1372" title="IMG_1372.jpeg" border="0" width="450" height="600" />

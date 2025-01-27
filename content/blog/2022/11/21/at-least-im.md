@@ -21,4 +21,4 @@ twitter:
 ---
 At least I'm not going to sweat anytime soon.
 
-<img src="uploads/2022/7612d52b6a.jpg" width="277" height="600" alt="">
+<img src="/media/uploads/2022/7612d52b6a.jpg" width="277" height="600" alt="">

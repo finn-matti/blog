@@ -16,12 +16,12 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-(Having recently ranted [against Manifestos](https://blog.martin-haehnel.de/2024/05/13/weblogpomo-thoughts-on.html), I had a reason to formulate one of my own. I hope that this personal manifesto is more productive than something like the [Manifesto for a Humane Web](https://humanewebmanifesto.com) because it is only meant for me, actually includes the steps I'll take and doesn't need to scale in any way.)
+(Having recently ranted [against Manifestos](/2024/05/13/weblogpomo-thoughts-on.html), I had a reason to formulate one of my own. I hope that this personal manifesto is more productive than something like the [Manifesto for a Humane Web](https://humanewebmanifesto.com) because it is only meant for me, actually includes the steps I'll take and doesn't need to scale in any way.)
 
 So, let's just start with the obvious: I'm here to write and post dog pictures. I am a programmer with a background in the humanities. But I'm unable to devote real time to any side projects apart from writing here. So I made a decision. No more projects. Actually: Way less projects.
 
-- [I had the idea to update my crossposting workflow](https://blog.martin-haehnel.de/2024/05/07/a-new-crossposting.html): that's not going to happen
-- [I had the idea of developing my own blot.im inspired micro blog sync client](https://blog.martin-haehnel.de/2024/04/12/inspired-by-vincent.html): I am not going to pursue that any further
+- [I had the idea to update my crossposting workflow](/2024/05/07/a-new-crossposting.html): that's not going to happen
+- [I had the idea of developing my own blot.im inspired micro blog sync client](/2024/04/12/inspired-by-vincent.html): I am not going to pursue that any further
 - I had the idea to develop a JavaScript-based DailyDogo viewing widget: I'm sorry, but it ain't happening either
 - I am not going to create Newsletters, Websites, Blogs, Courses, Apps, Extensions, Plugins, CLI-Tools, Videos, Podcasts, Streams or anything else that could be considered content. I will write here and in my notes system. What I will do on my blog is my public persona on the web and what I will write privately will help me realize my potential. The important part is the writing. Not so much the design of the website. I will let the latter go.
 
@@ -29,7 +29,7 @@ So, let's just start with the obvious: I'm here to write and post dog pictures. 
 
 I will try to limit and down-size non-public personal projects and ongoing areas of responsibility as well:
 
-- I am not going to implement [a manual notes and hightlights reviewing workflow](https://blog.martin-haehnel.de/2024/04/14/buildinpublic-zknstuff-im.html): I just don't have time for that every week. I review what I review. Readwise saves the highlights I made to my notes system automatically. That ought to be enough.
+- I am not going to implement [a manual notes and hightlights reviewing workflow](/2024/04/14/buildinpublic-zknstuff-im.html): I just don't have time for that every week. I review what I review. Readwise saves the highlights I made to my notes system automatically. That ought to be enough.
 - I am not going to commit to reading/listening to a certain amount of books this year: I read what I read.
 - I am not going to track, measure, document, visualize, or overly plan my life anymore. My ToDo-List is simple. If I can't do what's on the list for the day without overwhelm, I will remove items until it has become manageable again).
 

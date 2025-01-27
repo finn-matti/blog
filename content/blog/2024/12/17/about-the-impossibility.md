@@ -31,7 +31,7 @@ bluesky:
 
 ## Blog Post
 
-The CEO of [Obsidian](https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html) recently wrote:
+The CEO of [Obsidian](/2022/02/27/good-apps-obsidian.html) recently wrote:
 
 >Companies break promises all the time. A self-guaranteeing promise does not require you to trust anyone. You can verify a self-guaranteeing promise yourself.
 >

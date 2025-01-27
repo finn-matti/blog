@@ -24,4 +24,4 @@ mastodon:
 ---
 DailyDogo 858 🐶
 
-<img src="uploads/2024/image.jpg" width="450" height="600" alt="">
+<img src="/media/uploads/2024/image.jpg" width="450" height="600" alt="">

@@ -16,4 +16,4 @@ permalink: /2022/01/01/manton-also-why.html
 ---
 .[@manton](https://micro.blog/manton) Also: Why are theme errors not shown in the log? But here?
 
-<img src="uploads/2022/681fd9c18c.jpg" width="600" height="276" alt="" />
+<img src="/media/uploads/2022/681fd9c18c.jpg" width="600" height="276" alt="" />

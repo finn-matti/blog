@@ -18,4 +18,4 @@ permalink: /2021/07/01/they-are-building.html
 ---
 They are building a roof on our roof!
 
-<img src="uploads/2021/34ca928fd4.jpg" width="600" height="600" alt="" />
+<img src="/media/uploads/2021/34ca928fd4.jpg" width="600" height="600" alt="" />

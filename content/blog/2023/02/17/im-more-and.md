@@ -16,4 +16,4 @@ mastodon:
 ---
 I'm more and more impressed by the offering of radio programs on Apple Music. The most recent [Color Me Country episode](https://music.apple.com/us/station/buffalo-nichols/ra.1669383966) with the blues musician [Buffalo Nichols](https://www.buffalo-nichols.com), for example, is great.
 
-[Forward](https://blog.martin-haehnel.de/2023/04/26/on-the-one.html)
+[Forward](/2023/04/26/on-the-one.html)

@@ -18,4 +18,4 @@ permalink: /2021/10/18/first-flight-to.html
 ---
 First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.
 
-<img src="uploads/2021/27166156af.jpg" width="600" height="450" alt="" />
+<img src="/media/uploads/2021/27166156af.jpg" width="600" height="450" alt="" />

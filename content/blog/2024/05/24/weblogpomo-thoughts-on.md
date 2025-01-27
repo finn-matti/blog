@@ -15,7 +15,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[An interesting post by Jason](https://json.blog/2024/05/21/takes-spread-like.html) related to my recent discussions of manifestos and the general trend towards simple moral purity based statements (check [this post](https://blog.martin-haehnel.de/2024/05/18/weblogpomo-a-rational.html) and its links at the top if you're curios). Some excerpts from Jason's post:
+[An interesting post by Jason](https://json.blog/2024/05/21/takes-spread-like.html) related to my recent discussions of manifestos and the general trend towards simple moral purity based statements (check [this post](/2024/05/18/weblogpomo-a-rational.html) and its links at the top if you're curios). Some excerpts from Jason's post:
 
 >Communities converge on an understanding of how they are supposed to feel about something very rapidly on the internet. It seems to take no time at all for influential voices to emphatically determine what views are Good and Right and what views are Wrong.[…]
 

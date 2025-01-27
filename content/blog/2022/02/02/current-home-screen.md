@@ -18,4 +18,4 @@ permalink: /2022/02/02/current-home-screen.html
 ---
 Current Home Screen: the upper widget is a stack. The lower is siri app suggestions.
 
-<img src="uploads/2022/7f23a94fc1.jpg" width="277" height="600" alt="" />
+<img src="/media/uploads/2022/7f23a94fc1.jpg" width="277" height="600" alt="" />

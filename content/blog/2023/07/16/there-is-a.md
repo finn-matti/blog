@@ -24,5 +24,5 @@ Great idea, great plug-in. Give it a try.
 
 P. S.: It's maybe slightly too early to write a post like this, but I just wanted to share my enthusiasm. So take it with a grain of salt - and ask me in 3 months if I'm still using this.
 
-- [Previously.](https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html)
-- [Forward](https://blog.martin-haehnel.de/2023/08/23/kaitlin-salzke-makes.html)
+- [Previously.](/2023/03/16/i-dont-know.html)
+- [Forward](/2023/08/23/kaitlin-salzke-makes.html)

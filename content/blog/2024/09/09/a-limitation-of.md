@@ -43,7 +43,7 @@ Another practical problem comes from the fact that a database seeder doesn't ret
 
 P.S.: It is kind of weird then, that when you create a model that you are also given the option to create a database seeder:
 
-<img src="uploads/2024/cleanshot-2024-09-09-at-14.35.532x.png" alt="A screenshot of the artisan make:model cli command, showing that it allows to create a database seeder when creating a model." title="CleanShot 2024-09-09 at 14.35.53@2x.png" border="0" width="598" height="269" />
+<img src="/media/uploads/2024/cleanshot-2024-09-09-at-14.35.532x.png" alt="A screenshot of the artisan make:model cli command, showing that it allows to create a database seeder when creating a model." title="CleanShot 2024-09-09 at 14.35.53@2x.png" border="0" width="598" height="269" />
 
 This seems to suggest that maybe there is an intent to create seeders for every model (or entity), but as I tried to show, this is not practical and the seeder classes themselves do not really follow that logic and do not afford you the functionality to communicate between different seeders out of the box.
 

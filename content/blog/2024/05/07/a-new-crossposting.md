@@ -26,7 +26,7 @@ You know what I don't like about my blog? The way it crossposts to other service
 Which is not what I want. I would like it to work more in this way:
 
 - Blog posts (with our without title) should be shared automatically on [my Mastodon account](https://social.lol/@matti) with a proper link, maybe an applicable hashtag. But it should be clear that I'm sharing a blog post, which is not the same as writing a toot and that difference shouldn't therefore be invisible by just tooting the same content 1:1 as I posted on my blog
-- An exception are the [DailyDogos](https://blog.martin-haehnel.de/categories/dailydogo/) and other posts like it (not that there are any at the moment…). These should be shared with the image attached. Maybe there is not even a need for the link, but it would be fine if it would be there
+- An exception are the [DailyDogos](/categories/dailydogo/) and other posts like it (not that there are any at the moment…). These should be shared with the image attached. Maybe there is not even a need for the link, but it would be fine if it would be there
 - When I'm writing a toot, I'd like my blog to archive a copy of that toot. The archived version should include images, links and whathaveyou.
 
 So basically there are two workflows with a couple of conditionals I would like to implement:
@@ -42,7 +42,7 @@ So basically there are two workflows with a couple of conditionals I would like 
 
 I happen to have an [Echofeed](https://echofeed.app) account, which is part of the solution. I can point it at an RSS/JSON/Atom-Feed and it will post in a format I can specify to any of its supported services, which includes Mastodon and Micro.blog. It doesn't have any conditional logic, though, so I will have to provide it with feeds that only include posts that I want it to cross post.
 
-On the micro.blog side, this is maybe [not trivial](https://blog.martin-haehnel.de/2023/06/18/the-hugo-template.html), but at least is possible, since micro.blog uses [Hugo](https://gohugo.io) and you can - if you know how - customize it quite a bit. I'll need three feeds:
+On the micro.blog side, this is maybe [not trivial](/2023/06/18/the-hugo-template.html), but at least is possible, since micro.blog uses [Hugo](https://gohugo.io) and you can - if you know how - customize it quite a bit. I'll need three feeds:
 
 - A feed with only title posts, excluding any posts with the category "archivalCopyOfToot"
 - A feed with only non-title posts, including only those of "tootAsIs" (and excluding any from the category "archivalCopyOfToot")

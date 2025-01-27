@@ -29,4 +29,4 @@ As you might imagine, I am not blown away by the game. A video game podcast I li
 
 If all AAA games become one game - at least as far as the general design blue print is concerned - maybe AAA games are not for me anymore. I guess it's not fair to say, there are many different kinds of AAA games, but it at least feels like the amount of convergence has become more apparent over the last 10 years or so.
 
-[Forward.](https://blog.martin-haehnel.de/2023/06/12/quick-update-on.html)
+[Forward.](/2023/06/12/quick-update-on.html)

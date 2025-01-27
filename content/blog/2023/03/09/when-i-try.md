@@ -33,11 +33,11 @@ if (str_contains($str, 'llo')){
 
 This code will not run as is on replit, because the function [str_contains](https://www.php.net/manual/en/function.str-contains) doesn't exist before PHP 8.
 
-<img src="uploads/2023/f28919f82e.png" alt="Screen Shot 2023 03 09 at 14 39 02" title="Screen Shot 2023-03-09 at 14.39.02.png" border="0" width="599" height="490" />
+<img src="/media/uploads/2023/f28919f82e.png" alt="Screen Shot 2023 03 09 at 14 39 02" title="Screen Shot 2023-03-09 at 14.39.02.png" border="0" width="599" height="490" />
 
 So let's change that. Click the three dots in the side bar and reveal hidden files:
 
-<img src="uploads/2023/268880a450.png" alt="Screen Shot 2023 03 09 at 14 41 39" title="Screen Shot 2023-03-09 at 14.41.39.png" border="0" width="371" height="262" />
+<img src="/media/uploads/2023/268880a450.png" alt="Screen Shot 2023 03 09 at 14 41 39" title="Screen Shot 2023-03-09 at 14.41.39.png" border="0" width="371" height="262" />
 
 Next, open the `replit.nix` file and change the used php version, like so:
 
@@ -53,6 +53,6 @@ Without needing to do anything else we have instructed [nix](https://nixos.org) 
 
 If we run our little test program now, it'll work:
 
-<img src="uploads/2023/ceacd7f6ad.png" alt="Screen Shot 2023 03 09 at 14 47 10" title="Screen Shot 2023-03-09 at 14.47.10.png" border="0" width="278" height="600" />
+<img src="/media/uploads/2023/ceacd7f6ad.png" alt="Screen Shot 2023 03 09 at 14 47 10" title="Screen Shot 2023-03-09 at 14.47.10.png" border="0" width="278" height="600" />
 
 NB: The version of nix on replit is not up to date, so trying to use `php82` to get the latest and greatest PHP Version 8.2 won't work. But php 8.0 is still better than php 7.4

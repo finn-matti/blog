@@ -19,4 +19,4 @@ permalink: /2022/06/16/ide-troubles-phpstorm.html
 <p>These are only two compounding cuts of a thousand that make PHPStorm hard to love in my opinion. I have an especially hard time understanding the design decisions to remove long standing functionality from a shell by shadowing standard shortcuts. It’s just a bad idea. It does explain why my colleagues never use the integrated terminal, but have an extra shell window open to the side, to run terminal commands.</p>
 <p>All in all I am very unimpressed by PHPStorm, but also worried: If the performance of Intelephense stays as bad much longer, I might have to look at other options. I know that Netbeans and Eclipse also have PHP features, I just don’t know anyone using, let alone loving these apps for PHP development…</p>
 
-[Forward.](https://blog.martin-haehnel.de/2023/07/10/phpstorms-keybinding-system.html)
+[Forward.](/2023/07/10/phpstorms-keybinding-system.html)

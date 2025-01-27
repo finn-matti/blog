@@ -14,7 +14,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[Previously](https://blog.martin-haehnel.de/2023/02/17/im-more-and.html)
+[Previously](/2023/02/17/im-more-and.html)
 
 On the one hand I'm baffled that Apple Music doesn't have a dedicated "Rock" radio channel.
 

@@ -18,4 +18,4 @@ mastodon:
 ---
 Since I'm going to a Finnish course in autumn I am starting to intensify my Duolingo efforts again. Very nice coincidence that the app changed how their daily practice looks like: I can do these handful of exercises in 20 minutes or so and the presentation gives me the impression I'm done for today.
 
-<img src="uploads/2024/c3e176b783.png" width="277" height="600" alt="">
+<img src="/media/uploads/2024/c3e176b783.png" width="277" height="600" alt="">

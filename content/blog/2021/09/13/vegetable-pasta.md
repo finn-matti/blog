@@ -18,4 +18,4 @@ permalink: /2021/09/13/vegetable-pasta.html
 ---
 Vegetable pasta. 🧑‍🍳
 
-<img src="uploads/2021/ea1fef89c9.jpg" width="600" height="450" alt="" />
+<img src="/media/uploads/2021/ea1fef89c9.jpg" width="600" height="450" alt="" />

@@ -19,4 +19,4 @@ mastodon:
 
 I would like best, if you would continue working on Obsidian instead.
 
-- [Previously.](https://blog.martin-haehnel.de/2023/06/02/103909.html)
+- [Previously.](/2023/06/02/103909.html)

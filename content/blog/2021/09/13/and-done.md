@@ -18,4 +18,4 @@ permalink: /2021/09/13/and-done.html
 ---
 … and done!
 
-<img src="uploads/2021/14b7843d2e.jpg" width="450" height="600" alt="" />
+<img src="/media/uploads/2021/14b7843d2e.jpg" width="450" height="600" alt="" />

@@ -29,6 +29,6 @@ mastodon:
 ---
 DailyDogo 684 🐶
 
-<img src="uploads/2023/img-1776.jpeg" alt="IMG 1776" title="IMG_1776.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2023/img-1776.jpeg" alt="IMG 1776" title="IMG_1776.jpeg" border="0" width="450" height="600" />
 
-<img src="uploads/2023/img-1777.jpeg" alt="IMG 1777" title="IMG_1777.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2023/img-1777.jpeg" alt="IMG 1777" title="IMG_1777.jpeg" border="0" width="450" height="600" />

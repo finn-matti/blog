@@ -24,4 +24,4 @@ My Partner is on a business trip in Germany for three weeks. Napu and me are hol
 
 I'm proud of and happy for my partner. She has gotten a great opportunity to widen her horizon and went for it bravely. ❤️
 
-<img src="uploads/2023/a8002bd3db.jpg" width="450" height="600" alt="">
+<img src="/media/uploads/2023/a8002bd3db.jpg" width="450" height="600" alt="">

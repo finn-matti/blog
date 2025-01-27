@@ -12,7 +12,7 @@ tags:
 - "Reviews"
 permalink: /2021/07/24/acceptance-as-a.html
 ---
-As I said in [my last review](https://blog.martin-haehnel.de/2021/07/17/the-art-of.html): I love autobiographical writing. To continue the theme, I recently listened to Joan Didion's Books: The Year of Magical Thinking and Let Me Tell You What I Mean.
+As I said in [my last review](/2021/07/17/the-art-of.html): I love autobiographical writing. To continue the theme, I recently listened to Joan Didion's Books: The Year of Magical Thinking and Let Me Tell You What I Mean.
 
 The Year of Magical Thinking is a memoir of an especially tumultuous year in her life. After the sudden death of her husband and the hospitalization of her daughter, Didion finds herself detached from reality and has to claw herself back to reason. There is a certain sharpness in the way she puts things, a certain breathlessness in the intelligence with which she follows the paths of her own thoughts while mourning the loss of a writing partner and spouse (a parallel to Hampl's book).
 

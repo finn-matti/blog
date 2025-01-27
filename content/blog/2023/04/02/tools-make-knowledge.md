@@ -22,7 +22,7 @@ mastodon:
 <p>While PKM tools can be helpful in collecting, organizing, and connecting the information you gather, it is up to you to do something with that information to turn it into knowledge.</p>
 <footer>Eric Gregorich <cite><a href="https://ericgregorich.com/2023/04/02/heyscottyj-no-pkm.html" class="u-in-reply-to">https://ericgregorich.com/2023/04/02/heyscottyj-no-pkm.html</a></cite></footer></blockquote><script src="https://micro.blog/quoteback.js"></script>
 
-I agree with Eric's point - [and have made a similar one recently](https://blog.martin-haehnel.de/2023/03/21/an-interesting-difference.html) - just gathering and organizing information is not knowledge.
+I agree with Eric's point - [and have made a similar one recently](/2023/03/21/an-interesting-difference.html) - just gathering and organizing information is not knowledge.
 
 However, I feel that Scotty seems to throw out the baby with the bath water: Just because PKM tools are limited doesn't mean that they are useless. Many people (like me) want or indeed _need_  [a writing surface to think](https://notes.andymatuschak.org/z5WDNZizsbAzE1p2BLwr339fV4TCpzNvaztP2). Finding a good writing surface makes a real difference and PKM tools can be an incredible writing surface.
 

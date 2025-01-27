@@ -30,4 +30,4 @@ bluesky:
 ---
 DailyDogo 1138 🐶
 
-<img src="uploads/2025/8b18c0c7d8.jpeg" alt="" title="IMG_5107.jpeg" border="0" width="450" height="600" />
+<img src="/media/uploads/2025/8b18c0c7d8.jpeg" alt="" title="IMG_5107.jpeg" border="0" width="450" height="600" />

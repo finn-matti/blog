@@ -18,4 +18,4 @@ permalink: /2022/01/15/would-you-look.html
 ---
 Would you look at that super cute dog there in [@manton](https://micro.blog/manton)'s [announcement](https://www.manton.org/2022/01/14/123845.html) of Micro.blog for Android!
 
-<img src="uploads/2022/34e7c13e3d.jpg" width="600" height="557" alt="" />
+<img src="/media/uploads/2022/34e7c13e3d.jpg" width="600" height="557" alt="" />

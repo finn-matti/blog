@@ -18,9 +18,9 @@ mastodon:
 ---
 Having agreed to write more this month has produced a handful of posts that make me uncomfortable.
 
-- [A Post about my gripes with exclusionary "Manifestos" that seem to mistake moral purity for a self selected avant-garde with carefully trying to integrate new actors like LLMs in our lives](https://blog.martin-haehnel.de/2024/05/13/weblogpomo-thoughts-on.html)
-- [A Post about my thoughts around LLMs that boils down to LLMs are here to stay, so we need actors that are interested in social justice, nature conservation, and so on to actively engage these things, to shape their future instead of turning away.](https://blog.martin-haehnel.de/2024/05/14/weblogpomo-vulnerable-thoughts.html)
-- [A Post about my doubts that the web is a society and therefore non-violent internet protests can work.](https://blog.martin-haehnel.de/2024/05/16/weblogpomo-ist-there.html)
+- [A Post about my gripes with exclusionary "Manifestos" that seem to mistake moral purity for a self selected avant-garde with carefully trying to integrate new actors like LLMs in our lives](/2024/05/13/weblogpomo-thoughts-on.html)
+- [A Post about my thoughts around LLMs that boils down to LLMs are here to stay, so we need actors that are interested in social justice, nature conservation, and so on to actively engage these things, to shape their future instead of turning away.](/2024/05/14/weblogpomo-vulnerable-thoughts.html)
+- [A Post about my doubts that the web is a society and therefore non-violent internet protests can work.](/2024/05/16/weblogpomo-ist-there.html)
 
 These are all posts that make me uncomfortable because these are fluent thoughts that get more concrete the more I write. Today I wanted to add another point about (non-violent) protest.
 

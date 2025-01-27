@@ -33,6 +33,6 @@ DailyDogo 650 🐶
 
 <video src="https://blog.martin-haehnel.de/uploads/2023/img-1553.mov" muted autoplay loop></video>
 
-<img src="uploads/2023/img-1553.jpeg" alt="IMG 1553" title="IMG_1553.jpeg" border="0" width="600" height="450" />
+<img src="/media/uploads/2023/img-1553.jpeg" alt="IMG 1553" title="IMG_1553.jpeg" border="0" width="600" height="450" />
 
-<img src="uploads/2023/img-1554.jpeg" alt="IMG 1554" title="IMG_1554.jpeg" border="0" width="600" height="450" />
+<img src="/media/uploads/2023/img-1554.jpeg" alt="IMG 1554" title="IMG_1554.jpeg" border="0" width="600" height="450" />

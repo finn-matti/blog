@@ -15,11 +15,11 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[Previously.](https://blog.martin-haehnel.de/2022/12/12/got-an-unexpected.html)
+[Previously.](/2022/12/12/got-an-unexpected.html)
 
 Short follow-up:
 
 - [Sometime](https://sometime.irisationlab.com) has not worked out for me. I never got the hang of it. I think it's a good app, it just didn't click with me.
 - [TeuxDeux](https://teuxdeux.com/) is used very lightly. I would want to use it more, but I believe doing is more important than organizing or even tracking the doing.
 
-[Forward (task managers).](https://blog.martin-haehnel.de/2023/03/15/previously-im-not.html)
+[Forward (task managers).](/2023/03/15/previously-im-not.html)

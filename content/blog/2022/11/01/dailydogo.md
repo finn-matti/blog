@@ -33,4 +33,4 @@ twitter:
 ---
 DailyDogo 362 🐶
 
-<img src="uploads/2022/44fdd3a202.jpg" width="450" height="600" alt=""><img src="uploads/2022/6db95e8fa4.jpg" width="450" height="600" alt=""><img src="uploads/2022/39fc52caaf.jpg" width="450" height="600" alt="">
+<img src="/media/uploads/2022/44fdd3a202.jpg" width="450" height="600" alt=""><img src="/media/uploads/2022/6db95e8fa4.jpg" width="450" height="600" alt=""><img src="/media/uploads/2022/39fc52caaf.jpg" width="450" height="600" alt="">

@@ -19,7 +19,7 @@ Listen to it [here](https://coreint.org/2024/05/episode-600-two-robots-talking-t
 
 The whole episode was about the recent OpenAI/Scarlett Johansson thing that blew up in Manton's face.
 
-I, by chance, was at the computer when it was published and curious as [my first take](https://blog.martin-haehnel.de/2024/05/22/weblogpomo-by-association.html) on why I was angry was muddled in said anger and so I listened to this immediately. I found it very interesting and very _human_ (in a good way). A little protocol of mostly Manton's views:
+I, by chance, was at the computer when it was published and curious as [my first take](/2024/05/22/weblogpomo-by-association.html) on why I was angry was muddled in said anger and so I listened to this immediately. I found it very interesting and very _human_ (in a good way). A little protocol of mostly Manton's views:
 
 - His initial take was: The sky voice was not intentionally ripping of Her.
 - The response felt like: Some People were angry with him because he was defending a disgraced company.

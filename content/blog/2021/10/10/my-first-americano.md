@@ -18,4 +18,4 @@ permalink: /2021/10/10/my-first-americano.html
 ---
 My first Americano ever. I like it a lot.
 
-<img src="uploads/2021/3a86099195.jpg" width="450" height="600" alt="" />
+<img src="/media/uploads/2021/3a86099195.jpg" width="450" height="600" alt="" />

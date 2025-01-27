@@ -16,7 +16,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-<img src="uploads/2023/2023-08-04-varnish-homepage.png" alt="A screenshot of the first few lines of varnish-cache.org. After the heading there is a link stating &quot;I’m new here, please explain this Varnish thing&quot;" title="2023-08-04-varnish-homepage.png" border="0" width="416" height="121" />
+<img src="/media/uploads/2023/2023-08-04-varnish-homepage.png" alt="A screenshot of the first few lines of varnish-cache.org. After the heading there is a link stating &quot;I’m new here, please explain this Varnish thing&quot;" title="2023-08-04-varnish-homepage.png" border="0" width="416" height="121" />
 
 Full points! (I wish more projects would have a clearly visible link to an explainer what the thing I'm looking at actually is.)
 

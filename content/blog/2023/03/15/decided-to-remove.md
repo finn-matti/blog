@@ -14,4 +14,4 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-Decided to remove [my notes on notes newsletter page](https://blog.martin-haehnel.de/notes-on-notes/) from the navigation. I'm not pursuing that project at the moment, so I don't want people to be disappointed if they subscribe and no newsletters are coming.
+Decided to remove [my notes on notes newsletter page](/notes-on-notes/) from the navigation. I'm not pursuing that project at the moment, so I don't want people to be disappointed if they subscribe and no newsletters are coming.

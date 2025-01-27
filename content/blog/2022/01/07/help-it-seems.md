@@ -18,4 +18,4 @@ permalink: /2022/01/07/help-it-seems.html
 ---
 .[@help](https://micro.blog/help) It seems to me that the [highlight](https://gohugo.io/getting-started/configuration-markup#highlight) part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)
 
-<img src="uploads/2022/39a36c4f7d.jpg" width="600" height="231" alt="" />
+<img src="/media/uploads/2022/39a36c4f7d.jpg" width="600" height="231" alt="" />

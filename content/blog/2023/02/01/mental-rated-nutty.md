@@ -22,4 +22,4 @@ mastodon:
 ---
 Mental rated nutty & mild
 
-<img src="uploads/2023/c9ca74b563.jpg" width="600" height="450" alt="">
+<img src="/media/uploads/2023/c9ca74b563.jpg" width="600" height="450" alt="">

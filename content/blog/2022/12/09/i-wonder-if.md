@@ -11,4 +11,4 @@ twitter:
   id: 1601246421289762817
   username:
 ---
-I wonder if [Albums](https://blog.martin-haehnel.de/2022/01/18/good-apps-albums.html) will ever come out with its desktop version. Would be an instabuy for me.
+I wonder if [Albums](/2022/01/18/good-apps-albums.html) will ever come out with its desktop version. Would be an instabuy for me.

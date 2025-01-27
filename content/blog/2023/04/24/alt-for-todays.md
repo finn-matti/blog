@@ -24,4 +24,4 @@ mastodon:
 ---
 Alt for today's DailyDogo (she has been such a good girl, with her mom on a business trip for three weeks and whatnot…)
 
-<img src="uploads/2023/7c0c0e6258.jpg" width="450" height="600" alt="">
+<img src="/media/uploads/2023/7c0c0e6258.jpg" width="450" height="600" alt="">

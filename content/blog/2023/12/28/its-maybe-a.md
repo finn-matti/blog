@@ -18,7 +18,7 @@ mastodon:
 ---
 It's maybe a little bit weird to start writing again by pointing to [a post](http://jakobgreenfeld.com/4000-weeks) by Jakob Greenfeld I disagree strongly with. It's about a book called 4000 Weeks by Oliver Burkeman. I'm not going to write a strong rebuttal about all of the claims in the post but rather focus on one important point and also add a few more general thoughts. But let's start with a little context:
 
-I do think embracing the limits of life to focus on what we can do is a good thing. [I had written about the book myself a while ago.](https://blog.martin-haehnel.de/2022/02/13/impermanence-and-improvement.html) My main points were:
+I do think embracing the limits of life to focus on what we can do is a good thing. [I had written about the book myself a while ago.](/2022/02/13/impermanence-and-improvement.html) My main points were:
 
 - "I have to play the hand that I was dealt and resources (and everything is a resource) are not available in endless supply. If you take these two things together, it makes sense to go for a [satisficist](https://en.wikipedia.org/wiki/Satisficing) way of life." - Or: privilege is not evenly distributed, but you can still forge a life out of what you got (just not every life).
 - "My here and now is not merely a transitory state in between the lacking status quo and an amazing future. Instead of improving things in the present moment, I would endure certain things simply because I defined my present situation as something that didn’t matter in the future." Or: I am allowed to improve things in the here and now.
@@ -41,4 +41,4 @@ The post and its author is a useful counter example to my own life's plan: A (re
 
 My mental model predicts that sooner or later everyone will have to open their eyes to the small life they are actually living and embrace it - or failing that will live with a lot of avoidable cognitive dissonance. Greenfeld suggests the opposite. We'll see whose bet holds.
 
-- [Previously.](https://blog.martin-haehnel.de/2022/02/13/impermanence-and-improvement.html)
+- [Previously.](/2022/02/13/impermanence-and-improvement.html)

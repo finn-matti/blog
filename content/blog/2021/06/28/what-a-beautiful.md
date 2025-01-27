@@ -26,4 +26,4 @@ In the evening we went out to that bar that is so close to us — they had an op
 
 Finally, a little stroll along the two lakes that are less than two hundred meters from our home.
 
-<img src="uploads/2021/0c629850dd.jpg" width="600" height="450" alt="" />
+<img src="/media/uploads/2021/0c629850dd.jpg" width="600" height="450" alt="" />

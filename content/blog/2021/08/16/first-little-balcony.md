@@ -21,4 +21,4 @@ permalink: /2021/08/16/first-little-balcony.html
 ---
 First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️
 
-<img src="uploads/2021/e860e98946.jpg" width="600" height="600" alt="a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety." /><img src="uploads/2021/50523fcf99.jpg" width="600" height="600" alt="Tomato fruits still on the bush on our balcony with the scaffolding in the background." />
+<img src="/media/uploads/2021/e860e98946.jpg" width="600" height="600" alt="a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety." /><img src="/media/uploads/2021/50523fcf99.jpg" width="600" height="600" alt="Tomato fruits still on the bush on our balcony with the scaffolding in the background." />

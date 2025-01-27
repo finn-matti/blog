@@ -28,4 +28,4 @@ I am grateful for the dog coming into our lives, our little chaos agent, that br
 
 I am grateful for my relationship and my partner being there and giving me the reality check that I sometimes needed. Or the back rub. Or the space and time. Or the normality of everyday life. I love you for your honesty, humor, your smile and you holding me accountable. You, like no other can make me reconsider a strongly held belief. You, like no other can make me belief I could be a decent man if I tried. Thank you for being here with me, E.
 
-- [Forward](https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html)
+- [Forward](/2023/01/06/previously-this-last.html)

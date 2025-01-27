@@ -14,4 +14,4 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-Playing Stellaris again, which I do every time a new dlc comes out. The newest dlc is a "First Contact Story Pack" and I do love it a lot. Just a great game. [I have played it hundreds of hours](https://blog.martin-haehnel.de/2022/11/02/i-just-pledged.html) and am still enjoying the occasional round (which can take me upwards of 30 hours).
+Playing Stellaris again, which I do every time a new dlc comes out. The newest dlc is a "First Contact Story Pack" and I do love it a lot. Just a great game. [I have played it hundreds of hours](/2022/11/02/i-just-pledged.html) and am still enjoying the occasional round (which can take me upwards of 30 hours).

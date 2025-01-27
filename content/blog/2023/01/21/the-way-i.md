@@ -12,7 +12,7 @@ tags:
 - "Setup"
 permalink: /2023/01/21/the-way-i.html
 ---
-My journal is in some ways similar to what [ratfactor](http://ratfactor.com/notes) has described, only its not a hybrid analog/digital system. When I have time I will publish the second part, which describes how I implemented this workflow in [Obsidian](https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html).
+My journal is in some ways similar to what [ratfactor](http://ratfactor.com/notes) has described, only its not a hybrid analog/digital system. When I have time I will publish the second part, which describes how I implemented this workflow in [Obsidian](/2022/02/27/good-apps-obsidian.html).
 
 Without further ado, here is my workflow for keeping a digital journal:
 

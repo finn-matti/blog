@@ -22,4 +22,4 @@ mastodon:
 ---
 Didn't want to go out for Napu's longer walk, but I never ever have regretted going after all.
 
-<img src="uploads/2023/6be2e85f71.jpg" width="450" height="600" alt="A dog (Napu) is watching into the camera, while giving paw, giving the impression it is agreeing with the post's statement">
+<img src="/media/uploads/2023/6be2e85f71.jpg" width="450" height="600" alt="A dog (Napu) is watching into the camera, while giving paw, giving the impression it is agreeing with the post's statement">

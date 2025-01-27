@@ -40,4 +40,4 @@ Here are mine:
 - Music: Apple Music
 - Podcasts: [Overcast](https://overcast.fm/)
 - Password Management: [1Password](https://1password.com/)
-- Code Editor: VSCode and ([ugh](https://blog.martin-haehnel.de/2023/07/10/phpstorms-keybinding-system.html)) PHPStorm
+- Code Editor: VSCode and ([ugh](/2023/07/10/phpstorms-keybinding-system.html)) PHPStorm

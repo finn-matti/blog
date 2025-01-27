@@ -12,4 +12,4 @@ photos:
 photos_with_metadata:
 permalink: /2022/03/09/second-day-in.html
 ---
-Second day in a row where I can’t upload a new podcast episode through wavelength. <img src="uploads/2022/d72ac67161.png" /> [@manton](https://micro.blog/manton): Could you maybe look into this?
+Second day in a row where I can’t upload a new podcast episode through wavelength. <img src="/media/uploads/2022/d72ac67161.png" /> [@manton](https://micro.blog/manton): Could you maybe look into this?

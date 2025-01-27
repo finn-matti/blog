@@ -21,6 +21,6 @@ mastodon:
 ---
 DailyDogo 520 🐶
 
-<img src="uploads/2023/29e13ecc38.png" alt="" width="450" height="600" />
+<img src="/media/uploads/2023/29e13ecc38.png" alt="" width="450" height="600" />
 
-<img src="uploads/2023/fbed063015.png" alt="" width="450" height="600" />
+<img src="/media/uploads/2023/fbed063015.png" alt="" width="450" height="600" />

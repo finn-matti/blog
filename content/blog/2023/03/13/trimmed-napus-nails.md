@@ -24,4 +24,4 @@ Trimmed Napu's nails just now. Always an intense moment for the both of us. But 
 
 
 
-<img src="uploads/2023/8edaae4b91.jpg" width="450" height="600" alt="A dog (Napu) is looking at the camera, somewhat unsure. In the corner of the image a pair of scissors and a nail cutter are visible.">
+<img src="/media/uploads/2023/8edaae4b91.jpg" width="450" height="600" alt="A dog (Napu) is looking at the camera, somewhat unsure. In the corner of the image a pair of scissors and a nail cutter are visible.">

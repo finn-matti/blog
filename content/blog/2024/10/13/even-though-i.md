@@ -12,4 +12,4 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-Even though I use it at times - we are kinda meant to at work; [see also my latest stance vis-a-vis this topic](https://blog.martin-haehnel.de/2024/08/11/the-way-we.html) - reading about AI and the gushing nonsensical optimism around it makes me so sad. I guess this is my stop? Is this where I'm supposed to be getting off this technological enthusiast train?
+Even though I use it at times - we are kinda meant to at work; [see also my latest stance vis-a-vis this topic](/2024/08/11/the-way-we.html) - reading about AI and the gushing nonsensical optimism around it makes me so sad. I guess this is my stop? Is this where I'm supposed to be getting off this technological enthusiast train?

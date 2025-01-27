@@ -83,7 +83,7 @@ vs.
 Granted, this is still hard to read, because a lot is happening in this one line of code, but still: I'd argue it's much easier to parse, because opening and closing parentheses and commas carry much more information than a simple space could. Spaces are also commonly used to align or balance things as has happened around the pipe char. Does this carry semantic meaning? Nope, not in this case!
 
 
-<img src="uploads/2023/2023-06-19-hugo-templating-sucks-2.jpeg" alt="A visualization of what different symbols of the templating syntax mean in our example. It turns out that the space char carries three differnt meanings: an aesthtic space, a start of a parameter list, a delimiter between parameters." title="2023-06-19-hugo-templating-sucks-2.jpeg" border="0" width="600" height="424" />
+<img src="/media/uploads/2023/2023-06-19-hugo-templating-sucks-2.jpeg" alt="A visualization of what different symbols of the templating syntax mean in our example. It turns out that the space char carries three differnt meanings: an aesthtic space, a start of a parameter list, a delimiter between parameters." title="2023-06-19-hugo-templating-sucks-2.jpeg" border="0" width="600" height="424" />
 
 The space is doing an enormous amount of overtime here and I have yet to see a good justification of muddling the waters like this. The only reason I could see is that you have to balance parentheses, meaning you're ending up with the line ending in `)))`. The best part is that you still need parens in any case, you just have to put them around the whole function expression! The real template version safes you two parentheses for the price of a parsing headache. I feel like that's not worth it.
 

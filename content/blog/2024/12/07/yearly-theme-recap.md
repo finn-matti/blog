@@ -49,7 +49,7 @@ bluesky:
 
 Even though I do not listen to the Cortex podcast anymore, because it became too far removed from how normal salaried workers can organize their lives, one idea I have taken from it, is the idea of the yearly theme.[^1]
 
-[^1]: I've apparently talked about this in [a micro podcast episode of 2022](https://blog.martin-haehnel.de/2022/02/18/the-early-riser.html).
+[^1]: I've apparently talked about this in [a micro podcast episode of 2022](/2022/02/18/the-early-riser.html).
 
 Here's one of the podcast hosts, CGP Grey, introducing the concept:
 
@@ -73,7 +73,7 @@ For three years I have done this now:
 
 I had used [Sleep Cycle](https://www.sleepcycle.com) for years before looking into other means of tracking my sleep, so I'd say I have a pretty good general idea of what sleep tracking is all about and as of this year what is out there, especially after checking out so many other sleep tracking apps.
 
-<img src="uploads/2024/screenshot-2024-12-07-at-03.48.29.jpeg.png" alt="A screenshot from sleep cycle, showing of that I have tracked 1271 nights according to it. This includes many nights this year tracked with other apps, the Apple watch or my Oura ring." title="Screenshot 2024-12-07 at 03.48.29.jpeg.png" border="0" width="598" height="272" />
+<img src="/media/uploads/2024/screenshot-2024-12-07-at-03.48.29.jpeg.png" alt="A screenshot from sleep cycle, showing of that I have tracked 1271 nights according to it. This includes many nights this year tracked with other apps, the Apple watch or my Oura ring." title="Screenshot 2024-12-07 at 03.48.29.jpeg.png" border="0" width="598" height="272" />
 
 ### Sleep Tracking Options Are Pretty Much On Par With Each Other
 
@@ -123,13 +123,13 @@ I also found this comment on sleep debt on reddit, which seemed believable:
 
 The world of sleep apps is filled with somewhat useless features that don't really make a difference. I tried tagging various activities in the Oura app to see if they had an impact on my sleep, but it didn't really lead to any interesting insights. That my total sleep decreases after I tag coffee isn't actually that helpful - although it is kind of nice to know that this is actually the case, I guess.
 
-<img src="uploads/2024/screenshot-2024-12-07-at-03.06.47-cropped.jpeg" alt="A screenshot from Oura showing a part of scren about my &quot;discoveries - Track the impact of your tags on your biometrics&quot;. Under the tag Coffee it reads &quot;Your total sleep decreases after you tag Coffee&quot;." title="Screenshot 2024-12-07 at 03.06.47-cropped.jpeg" border="0" width="600" height="243" />
+<img src="/media/uploads/2024/screenshot-2024-12-07-at-03.06.47-cropped.jpeg" alt="A screenshot from Oura showing a part of scren about my &quot;discoveries - Track the impact of your tags on your biometrics&quot;. Under the tag Coffee it reads &quot;Your total sleep decreases after you tag Coffee&quot;." title="Screenshot 2024-12-07 at 03.06.47-cropped.jpeg" border="0" width="600" height="243" />
 
 Rise has a feature where it lets you rate your last night's sleep, which is another thing to do without a lot of benefits, it feels like. Maybe if you're unsure or see discrepancies between for example your sleep debt and how you feel in the morning, but for me sleep debt is itself a pretty good gauge already. That is to say, I feel my sleep was better when I slept longer, but 4 hours of sleep will in all likelihood always feel terrible the next day.[^3]
 
 [^3]: And in any case I shouldn't prioritize having the best 4 hour sleep nights, but having more 8 hour+ sleep nights.
 
-<img src="uploads/2024/screenshot-2024-12-07-at-03.13.24.jpeg.png" alt="A screenshot from the Rise app. In it we see a prompt asking me to rate my subjective sleep quality by rating it from poor to awesome on a 5 step scale." title="Screenshot 2024-12-07 at 03.13.24.jpeg.png" border="0" width="600" height="477" />
+<img src="/media/uploads/2024/screenshot-2024-12-07-at-03.13.24.jpeg.png" alt="A screenshot from the Rise app. In it we see a prompt asking me to rate my subjective sleep quality by rating it from poor to awesome on a 5 step scale." title="Screenshot 2024-12-07 at 03.13.24.jpeg.png" border="0" width="600" height="477" />
 
 ### Sleep Hygiene Is Hard - Melatonin Helped
 
@@ -137,7 +137,7 @@ Since I am living a real, full-blown adult live with a partner, a dog, a job and
 
 Regardless, I'm happy to report that, according to Apple Health, I have slept about an hour more, 7:26 in 2024 vs. 6:29 in 2023, on average. This figure will be somewhat inaccurate, since I have also switched sleep trackers and so forth, but I do not believe the trend is just entirely imaginary since I also feel more rested, on average, if less so than those numbers might make it seem.
 
-<img src="uploads/2024/sleep.jpeg.png" alt="A screenshot form Apple Health showing the my average time asleep has improved as described in the paragraph above: 6 hours 29 mins in 2023 vs. 7 hours 26 mins in 2024." title="Sleep.jpeg.png" border="0" width="599" height="457" />
+<img src="/media/uploads/2024/sleep.jpeg.png" alt="A screenshot form Apple Health showing the my average time asleep has improved as described in the paragraph above: 6 hours 29 mins in 2023 vs. 7 hours 26 mins in 2024." title="Sleep.jpeg.png" border="0" width="599" height="457" />
 
 One of the most important enablers of sleep success for me was using melatonin. If I take it early enough, about 4 hours before I plan to go to sleep, I will actually be drowsy enough that I'm in the "nothing else matters, but sleep" zone, which is great for going to sleep on time instead of partaking in [Revenge Bedtime Procrastination](https://en.wikipedia.org/wiki/Bedtime_procrastination), which I'm a grandmaster in.
 
@@ -168,7 +168,7 @@ From all those things I tried, here's what's probably going to stay in 2025 and 
 
 P.S.: I also recently learned that according to Apple Health I may have sleep apnoea. Which is not the same as snoring, if I understand correctly. I will have to look into that, since this might also impact my sleep.
 
-<img src="uploads/2024/view-sleep-highlights.jpeg.png" alt="A screenshot from my Apple Health app with a warning from 28. Nov that reads: &quot;Your breathing shows signs of possible sleep apnoea.
+<img src="/media/uploads/2024/view-sleep-highlights.jpeg.png" alt="A screenshot from my Apple Health app with a warning from 28. Nov that reads: &quot;Your breathing shows signs of possible sleep apnoea.
 Over multiple sleep sessions, Apple Watch has recorded elevated breathing disturbances that would be classified as moderate or severe sleep apnoea.&quot;" title="View Sleep Highlights.jpeg.png" border="0" width="599" height="436" />
 
 This is why I like tracking biometric data: It's an opportunity to look into something health related that might otherwise go unnoticed or even if it is noticed its relative severity is too unclear to act upon it. This sleep apnoea thing might also lead to nothing or only very little, but I'm doing something about it, because my health data suggest that I should consider it. Otherwise I would've probably thought "everbody snores" and let that be the end of it…

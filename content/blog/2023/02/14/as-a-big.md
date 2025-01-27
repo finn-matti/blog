@@ -16,4 +16,4 @@ mastodon:
 ---
 As a big fan of the art of live sports commentary and especially of the US school of the profession: How cool is it, that in the NBA 🏀women are not only doing color commentary but also play-by-play?
 
-[P. S. I just recently got into watching NBA.](https://blog.martin-haehnel.de/2023/02/12/having-just-recently.html)
+[P. S. I just recently got into watching NBA.](/2023/02/12/having-just-recently.html)

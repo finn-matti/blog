@@ -15,9 +15,9 @@ twitter:
 ---
 Two promising new apps:
 
-[Sometime](https://sometime.irisationlab.com) is an app for recurring tasks and reminders that seems to be what I have (ab)used [Due](https://blog.martin-haehnel.de/2022/01/22/good-apps-due.html) for. I just started using it, but the idea is great.
+[Sometime](https://sometime.irisationlab.com) is an app for recurring tasks and reminders that seems to be what I have (ab)used [Due](/2022/01/22/good-apps-due.html) for. I just started using it, but the idea is great.
 
 [TeuxDeux](https://teuxdeux.com) is a pretty, minimalistic todo list manager. This year I cut down hard on what I'd call "metawork", that is work to organize other work and abandoned my heavier task-management systems I had set up in Things or OmniFocus. I'm still using their free trial, but I love their clean design and can see myself using this going forward. I love [their approach of doing business](https://teuxdeux.com/purpose) and I think that [their Instagram](https://www.instagram.com/teuxdeuxapp/) is actually funny.
 
-- [Forward (TeuxDeux and Sometime).](https://blog.martin-haehnel.de/2022/12/12/got-an-unexpected.html)
-- [Forward (More promising Apps.)](https://blog.martin-haehnel.de/2023/05/09/previously-two-more.html)
+- [Forward (TeuxDeux and Sometime).](/2022/12/12/got-an-unexpected.html)
+- [Forward (More promising Apps.)](/2023/05/09/previously-two-more.html)

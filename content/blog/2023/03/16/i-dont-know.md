@@ -14,8 +14,8 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[Peviously.](https://blog.martin-haehnel.de/2023/03/15/previously-im-not.html)
+[Peviously.](/2023/03/15/previously-im-not.html)
 
 I don't know why, but I may have for the first time really understood how OmniFocus' repeating event functionality works. Amazing how much complexity they managed to cram into this feature. I can actually express all my recurring tasks in my task manager. _But:_ It almost certainly means that I'm stuck with OmniFocus, because no other app can do this.
 
-[Forward](https://blog.martin-haehnel.de/2023/07/16/there-is-a.html)
+[Forward](/2023/07/16/there-is-a.html)

@@ -24,7 +24,7 @@ The reliability part - meaning that I deliver consistently - is not as problemat
 
 The efficiency part is where my main problem lies: In order to deliver on time I will need to learn to cut corners and leave messy code as it is and even add my own mess on top of the rest at times.
 
-This doesn't seem to enable delivering greatness. After having read [Slow Productivity](https://blog.martin-haehnel.de/2024/06/05/daystooffload-review-cal.html) recently, that has a completely different philosophy about work - "do fewer things", "work at a natural pace", "obsess over quality" are its main points - this job stands at odds with this philosophy (that I am whole heartedly agree with).
+This doesn't seem to enable delivering greatness. After having read [Slow Productivity](/2024/06/05/daystooffload-review-cal.html) recently, that has a completely different philosophy about work - "do fewer things", "work at a natural pace", "obsess over quality" are its main points - this job stands at odds with this philosophy (that I am whole heartedly agree with).
 
 I now think that this is not the correct framing. It's reasonable to assume that I will work for the rest of my career in situations that demand - more or less - efficiency. "Delivering greatness", in part, is about making it happen under economic constraints. Entrepreneur or salaried worker: This means that I need to be a good investment to be allowed to work on whatever I deem "high quality greatness"™.
 

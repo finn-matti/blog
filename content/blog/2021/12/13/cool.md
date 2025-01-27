@@ -18,6 +18,6 @@ permalink: /2021/12/13/cool.html
 ---
 Cool.
 
-<img src="uploads/2021/9934becae3.jpg" width="600" height="600" alt="" />
+<img src="/media/uploads/2021/9934becae3.jpg" width="600" height="600" alt="" />
 
-- [Forward](https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html)
+- [Forward](/2023/01/06/previously-this-last.html)

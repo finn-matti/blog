@@ -12,6 +12,6 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-[Previously](https://blog.martin-haehnel.de/2022/12/18/i-dont-want.html)
+[Previously](/2022/12/18/i-dont-want.html)
 
 Readwise Reader... You were the chosen one! Their feed reader cannot handle daring fireball's feed. And it's a long standing issue. Great. I guess I'll have to take my feeds to a dedicated rss reader app once more?

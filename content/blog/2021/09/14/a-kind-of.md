@@ -8,4 +8,4 @@ lastmod: 2022-02-27T18:12:26+0200
 type: post
 permalink: /2021/09/14/a-kind-of.html
 ---
-A kind of [Obsidian](https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html) lite? [nota.md](https://nota.md)
+A kind of [Obsidian](/2022/02/27/good-apps-obsidian.html) lite? [nota.md](https://nota.md)

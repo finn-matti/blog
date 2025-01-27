@@ -21,4 +21,4 @@ mastodon:
 ---
 #buildinpublic #mbsync After a late combined breakfast/lunch back at it. Still writing the testcase for storePost. I had to think about how to structure tests that rely on test data or rather needs a directory to write to. I generally like to mirror the structure of the app in my tests, so that I can find the things I need easily. I have now introduced a testData directory where I can write to/from the filesystem. It looks like this:
 
-<img src="uploads/2024/f642602c89.png" width="600" height="290" alt="">
+<img src="/media/uploads/2024/f642602c89.png" width="600" height="290" alt="">

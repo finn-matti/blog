@@ -13,7 +13,7 @@ permalink: /2021/09/30/problems-of-the.html
 ---
 <p>Problems with "the social" are emergent properties of the social<sup><a href="#fn1-8648" id="fnr1-8648" title="see footnote" class="footnote">1</a></sup>. Since they are properties, we're unlikely to fix them on a grander scale. You aren't so much "fixing" these problems, anyways: You suppress them (which isn't meant to suggest that that's always a bad thing). But suppression is work, takes infrastructure. The bigger the social structure you try to keep "in order" (like a gardener) the bigger the work. This is why suppression only works for self selected (or lucky), small groups with aligned interests and supporting structures (resources, established processes, a shared and actively maintained history<sup><a href="#fn2-8648" id="fnr2-8648" title="see footnote" class="footnote">2</a></sup>, …). Teams, clubs, activist and research groups, etc. have the best chances to successfully suppress some of the more nastier but nonetheless naturally occurring characteristics of the social. It really is a jungle out there.</p>
 
-- [Forward](https://blog.martin-haehnel.de/2023/12/28/its-maybe-a.html)
+- [Forward](/2023/12/28/its-maybe-a.html)
 
 <div class="footnotes">
 <hr />

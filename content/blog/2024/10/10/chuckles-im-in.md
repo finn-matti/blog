@@ -20,4 +20,4 @@ mastodon:
 
 (I'm not. We are save here. But it sounds impressive.)
 
-<img src="uploads/2024/cleanshot-2024-10-10-at-18.26.502x.png" alt="A screenshot of a "severe wind warning", by way of the apple weather app, in the northorn bay of bothnia (near Oulu, where I live) tomorrow (October 11). It says under severity: "Significant threat to life or property"." width="600" height="437" />
+<img src="/media/uploads/2024/cleanshot-2024-10-10-at-18.26.502x.png" alt="A screenshot of a "severe wind warning", by way of the apple weather app, in the northorn bay of bothnia (near Oulu, where I live) tomorrow (October 11). It says under severity: "Significant threat to life or property"." width="600" height="437" />

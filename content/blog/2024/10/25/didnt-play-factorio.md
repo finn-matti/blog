@@ -18,4 +18,4 @@ mastodon:
 ---
 Didn't play #factorio in a while, it seems.
 
-<img src="uploads/2024/cleanshot-2024-10-25-at-20.25.252x.png" alt="CleanShot 2024-10-25 at 20.25.25@2x." width="568" height="144" />
+<img src="/media/uploads/2024/cleanshot-2024-10-25-at-20.25.252x.png" alt="CleanShot 2024-10-25 at 20.25.25@2x." width="568" height="144" />

@@ -12,7 +12,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-.[@manton](https://micro.blog/manton) And I also noticed that footnotes are broken on my main blog/list page: e.g. this reference here [blog.martin-haehnel.de](https://blog.martin-haehnel.de/#fn:1) is used in two different blog articles.
+.[@manton](https://micro.blog/manton) And I also noticed that footnotes are broken on my main blog/list page: e.g. this reference here [blog.martin-haehnel.de](/#fn:1) is used in two different blog articles.
 
 I did some research and this forum post seems to suggest that there is no solution for goldmark based hugo: [discourse.gohugo.io/t/does-go...](https://discourse.gohugo.io/t/does-goldmark-support-namedfootnotes/26727)
 

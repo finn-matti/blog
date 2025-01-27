@@ -15,7 +15,7 @@ mastodon:
 ---
 Loved this one from Andrew Dana Hudson (who is on Mastodon: @AndrewDanaHudson@wandering.shop): [Space is Dead. Why Do We Keep Writing About It?](https://longnow.org/ideas/space-dead/)
 
-We can still dream of space. But we ought to do it not turning away from what we need to go through - system change - before we go beyond. And system change - if at all possible ([I do have my doubts](https://blog.martin-haehnel.de/2024/05/31/hub-the-fatalistic.html)) - start with myth making.
+We can still dream of space. But we ought to do it not turning away from what we need to go through - system change - before we go beyond. And system change - if at all possible ([I do have my doubts](/2024/05/31/hub-the-fatalistic.html)) - start with myth making.
 
 I always get so emotional thinking, dreaming about space exploration. I do have a hard time not thinking about this in "manifest destiny for our species" terms. And maybe it's still the case. But we need to incorporate the here and now into it, namely the climatecrisis/[polycrisis](https://www.weforum.org/agenda/2023/03/polycrisis-adam-tooze-historian-explains/).
 

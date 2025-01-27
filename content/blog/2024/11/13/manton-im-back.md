@@ -20,4 +20,4 @@ mastodon:
 
 Would be possible to use the excerpt of a blog post instead of a static blog description/about me?
 
-<img src="uploads/2024/464102b56d.png" width="600" height="439" alt="A screenshot of an example post that has an excerpt of the linked post, instead of the blog description. The referenced post is this one: [isfeeling.social/@matt/113...](https://isfeeling.social/@matt/113472646838404913)">
+<img src="/media/uploads/2024/464102b56d.png" width="600" height="439" alt="A screenshot of an example post that has an excerpt of the linked post, instead of the blog description. The referenced post is this one: [isfeeling.social/@matt/113...](https://isfeeling.social/@matt/113472646838404913)">

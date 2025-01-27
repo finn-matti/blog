@@ -20,6 +20,6 @@ mastodon:
 ---
 1000 Days of Duolingo. I am little proud. I do only one lesson per day at the moment, so progress is slow. And working for a German company also doesn't help in becoming a Finnish speaker quicker. But it's a process. As long as I keep going, I'll improve.
 
-<img src="uploads/2024/screenshot-2024-04-11-at-09.47.54.png" alt="A screenshot of the duolingo web app showing off the 1000 day streak " title="Screenshot 2024-04-11 at 09.47.54.png" border="0" width="507" height="600" />
+<img src="/media/uploads/2024/screenshot-2024-04-11-at-09.47.54.png" alt="A screenshot of the duolingo web app showing off the 1000 day streak " title="Screenshot 2024-04-11 at 09.47.54.png" border="0" width="507" height="600" />
 
-- [Previously](https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html)
+- [Previously](/2023/01/06/previously-this-last.html)

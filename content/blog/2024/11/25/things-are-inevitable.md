@@ -13,7 +13,7 @@ mastodon:
   username: matti
   hostname: social.lol
 ---
-"Things are inevitable and there is nothing you can do about it", is at the core of the [The Fatalistic Turn](https://blog.martin-haehnel.de/2024/05/31/hub-the-fatalistic.html). But the answer to this doesn't need to be acceptance. It just has to be an answer.
+"Things are inevitable and there is nothing you can do about it", is at the core of the [The Fatalistic Turn](/2024/05/31/hub-the-fatalistic.html). But the answer to this doesn't need to be acceptance. It just has to be an answer.
 
 It could be "F**k You Optimism":
 

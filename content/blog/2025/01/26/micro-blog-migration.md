@@ -1,7 +1,7 @@
 ---
 title: Migration from Micro.blog
-date: "Created"
-lastmod: "Last Modified"
+date: 2025-01-24T21:32:46+0200
+lastmod: 2025-01-27T21:08:29+0200
 ---
 I have migrated my blog and with it, changed the template. This is a work-in-progress, so you'll find unfinished things and broken things.
 
