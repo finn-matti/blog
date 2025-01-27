@@ -15,6 +15,20 @@ photos:
 photos_with_metadata:
 permalink: /2022/02/13/my-current-highlighting.html
 ---
+
+## Changelog
+
+- 2025-01-27 - Mentioned that this setup is not up-to-date
+
+## Note
+
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+  <p>
+    <em>The following needs an update.</em>
+  </p>
+</div>
+
 Currently my highlighting and annotation setup looks like this:
 
 ![](/media/uploads/2022/906ec19bd9.png)
@@ -27,10 +41,10 @@ Currently my highlighting and annotation setup looks like this:
 
 Why even have a setup like this? Because Readwise is actually awesome. I was skeptical at first, but after reviewing highlights for about two weeks now, I can honestly say: The added engagement with my previously read stuff helps to keep me reading.[^3]
 
-The real kicker is something else, though: Readwise offers an official [Obsidian](https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html) - the note taking software - [plugin](https://github.com/readwiseio/obsidian-readwise) that syncs my highlights to my own markdown file based knowledge base. So even if I decide to stop using Readwise, the highlights and notes will still be there, in an open and somewhat future-proof format.
+The real kicker is something else, though: Readwise offers an official [Obsidian](/2022/02/27/good-apps-obsidian.html) - the note taking software - [plugin](https://github.com/readwiseio/obsidian-readwise) that syncs my highlights to my own markdown file based knowledge base. So even if I decide to stop using Readwise, the highlights and notes will still be there, in an open and somewhat future-proof format.
 
 [^1]: And I own the 6th generation Kindle Paperwhite (from 2014) already. Throwing it away doesn't seem to be smart. As long as it works, this works. … While writing this I looked into e-reader alternatives, but it seems that the Kindle is  the most convenient choice for a consumer with my needs.
 [^2]: Instapaper Premium is needed for the annotations (since you only get 5 per month on the free tier). Premium includes some other features like text-to-speech and speed reading, but I don't really use these features.
-[^3]: And writing. Which is one of [the goals](https://blog.martin-haehnel.de/2022/02/02/goalsandideas.html) of this year. There is more to say about this, when framed more theoretically, but this is not the post for this.
+[^3]: And writing. Which is one of [the goals](/2022/02/02/goalsandideas.html) of this year. There is more to say about this, when framed more theoretically, but this is not the post for this.
 
-[Forward](https://blog.martin-haehnel.de/2022/12/18/i-dont-want.html)
+[Forward](/2022/12/18/i-dont-want.html)
