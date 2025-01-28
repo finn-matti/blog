@@ -41,11 +41,12 @@ metadata:
       <content type="html">{{ post.content | renderTransforms(post.data.page, metadata.base) }}</content>
       {# The following is a combined title + content field  #}
       <echofeed:content type="html">
-        {% if post.data.title %}
-          {{ post.data.title }}
-          &lt;br&gt;
-        {% endif %}
-        {{ post.content | renderTransforms(post.data.page, metadata.base) }}
+        {%- if post.data.title -%}
+          {{- post.data.title -}}
+        {%- endif %}
+
+        {# Remove any tags as these can not be rendered #}
+        {{- post.content | renderTransforms(post.data.page, metadata.base) | striptags -}}
       </echofeed:content>
     </entry>
   {%- endfor %}
