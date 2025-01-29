@@ -47,6 +47,11 @@ metadata:
 
         {# Remove any tags as these can not be rendered #}
         {{- post.content | renderTransforms(post.data.page, metadata.base) | striptags -}}
+        {# Only include a link if the post has a real title #}
+        {%- if post.data.title %}
+
+        {{ absolutePostUrl -}}
+        {%- endif -%}
       </echofeed:content>
     </entry>
   {%- endfor %}

@@ -15,7 +15,7 @@ German living in Finland's north-west. Making money by programming remotely. Lov
 {%- css %}{% include "public/css/message-box.css" %}{% endcss %}
 <div class="message-box">
   <p>
-    <em>The following is out of date. The blog is based on 11ty and hosted on cloudflare.</em>
+    <em>The following is out of date. The blog is based on [11ty](https://www.11ty.dev) and hosted on [cloudflare pages](https://pages.cloudflare.com/). Read more [here](/blog/2025/01/26/micro-blog-migration/).</em>
   </p>
 </div>
 
