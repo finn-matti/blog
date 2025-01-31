@@ -6,6 +6,13 @@ eleventyNavigation:
 date: 2021-09-14T16:26:36+0200
 permalink: /archive/
 ---
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+  <p>
+    <em>For tags, go to the <a href="/tags/">tags</a> page.</em>
+  </p>
+</div>
+
 <h1>Archive</h1>
 
 {% set postslist = collections.posts %}
